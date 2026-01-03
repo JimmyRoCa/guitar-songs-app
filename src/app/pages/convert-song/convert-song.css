@@ -1,0 +1,21 @@
+.form {
+  max-width: 800px;
+}
+
+input, textarea {
+  width: 100%;
+  margin-bottom: 8px;
+  padding: 6px;
+  font-family: monospace;
+}
+
+button {
+  margin: 12px 0;
+}
+
+pre {
+  background: #111;
+  color: #0f0;
+  padding: 12px;
+  overflow-x: auto;
+}

@@ -1,0 +1,27 @@
+<h1>🎸 Mis canciones</h1>
+
+<a routerLink="/add" class="add-btn">➕ Añadir canción</a>
+<a routerLink="/convert" class="add-btn">🔁 Convertir a JSON</a>
+
+<input
+  type="text"
+  placeholder="Buscar por título o artista…"
+  (input)="onSearch($any($event.target).value)"
+/>
+
+<ul *ngIf="songs$ | async as songs; else loading">
+  <li *ngFor="let song of songs">
+    <a [routerLink]="['/song', song.id]">
+      <strong>{{ song.title }}</strong> – {{ song.artist }}
+    </a>
+  </li>
+
+  <li *ngIf="songs.length === 0">
+    No se encontraron canciones
+  </li>
+</ul>
+
+<ng-template #loading>
+  <p>Cargando canciones…</p>
+</ng-template>
+

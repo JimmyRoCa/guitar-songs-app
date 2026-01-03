@@ -1,0 +1,63 @@
+<div
+  *ngIf="song$ | async as song; else loading"
+  [class.stage-mode]="isStageMode"
+>
+
+  <h1>{{ song.title }}</h1>
+  <h3>{{ song.artist }} · Tono: {{ song.key }}</h3>
+
+<div class="top-bar">
+  <div class="transpose">
+    <span class="label">Transpose</span>
+    <button (click)="decreaseTranspose()">−</button>
+    <span class="value">{{ transposeSteps }}</span>
+    <button (click)="increaseTranspose()">+</button>
+  </div>
+
+
+  <button class="stage-btn" (click)="toggleStageMode()">
+    Dark/Light Mode🎤
+  </button>
+
+  <div class="autoscroll">
+  <button (click)="toggleAutoScroll()">
+    {{ isAutoScroll ? 'Stop' : 'Auto scroll' }}
+  </button>
+
+  <div class="speed">
+    <button (click)="decreaseSpeed()">−</button>
+    <span>x{{ scrollSpeed | number:'1.1-1' }}</span>
+    <button (click)="increaseSpeed()">+</button>
+  </div>
+</div>
+
+</div>
+
+
+  <div class="song">
+    <div *ngFor="let section of song.sections">
+      
+      <h4 *ngIf="section.title">{{ section.title }}</h4>
+
+      <div class="line" *ngFor="let line of section.lines">
+        <div class="chords">
+            <span
+                class="chord"
+                *ngFor="let c of line.chords"
+                [style.left.ch]="c.position"
+            >
+                {{ transposeChord(c.chord) }}
+            </span>
+            </div>
+        <span class="text">{{ line.text }}</span>
+      </div>
+
+    </div>
+  </div>
+
+  <a routerLink="/">⬅ Volver</a>
+</div>
+
+<ng-template #loading>
+  <p>Cargando canción…</p>
+</ng-template>

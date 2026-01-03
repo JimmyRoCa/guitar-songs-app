@@ -1,0 +1,36 @@
+<h1>Convertir canción a JSON</h1>
+
+<div class="form">
+  <input
+    type="text"
+    placeholder="Título"
+    [(ngModel)]="title"
+  />
+
+  <input
+    type="text"
+    placeholder="Artista"
+    [(ngModel)]="artist"
+  />
+
+  <input
+    type="text"
+    placeholder="Tono"
+    [(ngModel)]="key"
+  />
+
+  <textarea
+    rows="15"
+    placeholder="Pega aquí la letra con acordes (Ultimate Guitar)"
+    [(ngModel)]="rawText"
+  ></textarea>
+
+  <button (click)="convert()">Convertir a JSON</button>
+</div>
+
+<div *ngIf="resultJson" class="result">
+  <h3>Resultado JSON</h3>
+  <button (click)="copyJson()">📋 Copiar JSON</button>
+  <pre>{{ resultJson }}</pre>
+</div>
+
