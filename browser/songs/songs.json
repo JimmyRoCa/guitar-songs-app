@@ -1,0 +1,3591 @@
+[
+  {
+  "id": 1767288146822,
+  "title": "This Is The Life",
+  "artist": "Amy Macdonald",
+  "key": "E A D G B E",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Oh, the wind whistles down",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "The cold dark street tonight",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "And the people they were dancing to the music vibe",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "And the boys chase the girls with the curls in their hair",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "While the shy tormented youth sit way over there",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "And the songs they get louder",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Each one better than before",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "So you're heading down the road in your taxi for four",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "And you're waiting outside Jimmy's front door",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "But nobody's in and nobody's home 'til four",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "So you're sitting there with nothing to do",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Talking about Robert Riger and his motley crew",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "And where you're gonna go and where you're gonna sleep tonight",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And you're singing the songs, thinking this is the life",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And you wake up in the morning and your head feels twice the size",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna go? Where you gonna go?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Where you gonna sleep tonight?",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "",
+          "chords": [
+            {
+              "chord": {
+                "chord": "Am",
+                "position": 1
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "F",
+                "position": 6
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "C",
+                "position": 9
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "Em",
+                "position": 12
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "Am",
+                "position": 16
+              },
+              "position": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+  {
+  "id": 1767288036899,
+  "title": "Take On Me",
+  "artist": "A-ha",
+  "key": "E A D G B E",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Talking away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "Well, I don't know what I'm to say",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "text": "I'll say it anyway",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Today's another day to find you",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "text": "Shying away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "I'll be coming for your love, ok?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Take   on   me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Take   me   on",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Bm",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "I'll   be   gone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "B",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "In a day or two...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "C",
+              "position": 22
+            },
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "So needless to say",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 3
+            },
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "I'm odds and ends, but that's me,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "I'm stumbling away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Slowly learning that life is ok and",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Say after me",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "It's no better to be safe than sorry and",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Take  on   me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Take   me   on",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Bm",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "I'll   be   gone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "B",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "In a day or two...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "And all things that you say",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Is it life or just to play",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "My worries away?",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 3
+            },
+            {
+              "chord": "D",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "You're all the things I've got to remember",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "You're shying away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "I'll be coming for you anyway",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Take   on   me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Take   me   on",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Bm",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "I'll   be   gone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "B",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "In a day or two...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "Bm",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "I'll   be   gone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "B",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "In a day or two...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 23
+            },
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "In a day or two...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+  {
+  "id": 1767289056321,
+  "title": "The One That Got Away",
+  "artist": "Katy Perry",
+  "key": "E A D G B E",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Summer after high school when we first met",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "We'd make out in your Mustang to Radiohead",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "text": "And on my 18th birthday we got matching tattoos",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "Used to steal your parents' liquor and climb to the roof",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Talk about our future like we had a clue",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Never planned that one day I'd be losing you",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "F",
+              "position": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "In another life I would be your girl",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "We'd keep all our promises, be us against the world",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "In another life I would make you stay",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "So I don't have to say you were the one that got away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "F",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "The one that got away",
+          "chords": []
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I was June and you were my Johnny Cash",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Never one without the other, we made a pact",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "text": "Sometimes when I miss you I put those records on, whoa",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "Someone said you had your tattoo removed",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Saw you downtown singin' the blues",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "It's time to face the music, I'm no longer your muse",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 5
+            },
+            {
+              "chord": "F",
+              "position": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "But in another life I would be your girl",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "We'd keep all our promises, be us against the world",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "In another life I would make you stay",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "So I don't have to say you were the one that got away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "F",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "The one that got away",
+          "chords": []
+        }
+      ]
+    },
+    {
+      "title": "Post-Chorus",
+      "lines": [
+        {
+          "text": "The one",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "The one",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "The one",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "The one that got away",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "All this money can't buy me a time machine, no",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 32
+            },
+            {
+              "chord": "F",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "Can't replace you with a million rings, no",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            },
+            {
+              "chord": "F",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "I should've told you what you meant to me, whoa",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 32
+            },
+            {
+              "chord": "F",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "'Cause now I pay the price",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "In another life I would be your girl",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "We'd keep all our promises, be us against the world",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "In another life I would make you stay",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "So I don't have to say you were the one that got away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "F",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "The one that got away (The one that got away)",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post-Chorus",
+      "lines": [
+        {
+          "text": "The one (The one)",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "The one (The one)",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "The one (The one)",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "In another life I would make you stay",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "So I don't have to say you were the one that got away",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "F",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "The one that got away",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+  {
+  "id": 1767281469400,
+  "title": "Stand By Me",
+  "artist": "Ben E. King",
+  "key": "G C E A",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "When the night has come",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "And the land is dark",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And the moon is the only light we'll see",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "No, I won't be afraid,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "No, I won't be afraid",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "text": "Just as long as you stand, stand by me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "So, darling, darling, stand by me,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand by me.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand, stand by me, stand by me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "If the sky that we look upon",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Should tumble and fall",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Or the mountain should crumble to the sea,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "I won't cry, I won't cry,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "No, I won't shed a tear",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Just as long as you stand, stand by me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And darling, darling, stand by me,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand by me.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand now, stand by me, stand by me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Darling, darling, stand by me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand by me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand now, stand by me, stand by me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "G",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Whenever you're in trouble",
+          "chords": []
+        },
+        {
+          "text": "Won't you stand by me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Oh, stand by me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "text": "Woah, stand now, oh stand, stand by me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "(fade out)",
+          "chords": []
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767288300011,
+  "title": "Nunca Te Olvidé",
+  "artist": "Morat",
+  "key": "E A D G B E",
+  "sections": [
+    {
+      "lines": [
+        {
+          "text": "Tu lloraste primero",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y aunque llegue a arrepentirme",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "ya era tres meses muy tarde",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Am",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Pero seamos sinceros",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 3
+            },
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Yo no quería despedirme",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Y tu no querias olvidarme",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 4
+            },
+            {
+              "chord": "Am",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Estoy tan arrepentido, tan arrepentido",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 4
+            },
+            {
+              "chord": "Am",
+              "position": 15
+            },
+            {
+              "chord": "F",
+              "position": 22
+            },
+            {
+              "chord": "F",
+              "position": 37
+            },
+            {
+              "chord": "G",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "Porque fui un cobarde que por orgullo no esta contigo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 3
+            },
+            {
+              "chord": "G",
+              "position": 21
+            },
+            {
+              "chord": "Am",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "Estoy tan arrepentido, tan arrepentido",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 11
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "Yo se que a ti ya no te asustan con mi nombre",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y de seguro no escondes un suspiro si me ves",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Yo sé a ti te esta fallando la memoria y a lo peor",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Nuestra historia ya no cuelga de un tal vez",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "Am",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Pero si todo sale bien ya no tendré más pesadillas",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Ni raspadas las rodillas por rogar ante tus pies",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 30
+            },
+            {
+              "chord": "Am",
+              "position": 50
+            }
+          ]
+        },
+        {
+          "text": "Y si te atreves a volver te acordaras sin que te diga",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Nunca te olvidé",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767288504913,
+  "title": "La Carretera",
+  "artist": "Prince Royce",
+  "key": "",
+  "sections": [
+    {
+      "title": "Intro",
+      "lines": [
+        {
+          "text": "Em  C     G D      (x3)",
+          "chords": []
+        }
+      ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "voy manejando por la noche y pienso en ti",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Y en tantas cosas que no te llegue a decir",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Y la luna desde lejos me acompaña",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 6
+            },
+            {
+              "chord": "Em",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Y me trae tantos recuerdos que perdí",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "Y en la radio está tocando tu canción",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "La que bailamos tantas veces tu y yo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Y la lluvia cae tan fuerte en mi ventana",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 6
+            },
+            {
+              "chord": "Em",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Y se evapora como gotas de tu amor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Y las luces de los autos brillan como las estrellas",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "En el cielo del dolor",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "Em",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "El camino va pasando y yo voy acelerando",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Como quien busca el amor",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 6
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Yo te busco, como un loco, dime...",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "¿Dónde estarás? ¿Dónde estarás?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "¿Todavía piensas en mí?",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "¿Dónde estarás? ¿Dónde estarás?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Yo sigo pensando en ti",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Quiero saber si todavía te quedará",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Un poquito de amor por mi",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "La carretera se hace larga",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Y yo siento que puedo morir",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Voy manejando creo que va a salir el sol",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 28
+            },
+            {
+              "chord": "Em",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Que diera yo por estar en tu habitación",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "Tu contestador responde mi llamada",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Dejo grabado un mensaje con mi voz",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Y te digo que te extraño",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Que eres tu toda mi vida",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Que me ahogo en el alcohol",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Que no acepto que termine esta historia tan bonita",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "Esta historia de los dos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 6
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Que ese tipo que pretende",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Secuestrarme tus caricias no va a ser mejor que yo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "D",
+              "position": 35
+            },
+            {
+              "chord": "Em",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "No lo dudes, mi amor, dime...",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "¿Dónde estarás? ¿Dónde estarás?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "¿Todavía piensas en mí?",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "¿Dónde estarás? ¿Dónde estarás?",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Yo sigo pensando en ti",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Quiero saber si todavía te quedará",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Un poquito de amor por mi",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "La carretera se hace larga",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Y yo siento que puedo morir  (x2)",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767290192995,
+  "title": "Supermarket Flowers",
+  "artist": "Ed Sheeran",
+  "key": "C",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "I took the supermarket flowers from the windowsill",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            },
+            {
+              "chord": "F",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "I threw the day old tea from the cup",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            },
+            {
+              "chord": "F",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "     Packed up the photo album Matthew had made",
+          "chords": [
+             {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 16
+            },
+            {
+              "chord": "F",
+              "position": 27
+            },
+            {
+              "chord": "C",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Memories of a life that’s been loved",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Took the get well soon cards and stuffed animals",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            },
+            {
+              "chord": "F",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "Poured the old ginger beer down the sink",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            },
+            {
+              "chord": "F",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "Dad always told me don’t you cry when you’re down",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 16
+            },
+            {
+              "chord": "F",
+              "position": 27
+            },
+            {
+              "chord": "C",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "But mum there’s a tear every time that I blink",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "C",
+              "position": 47
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus 1",
+      "lines": [
+        {
+          "text": "Oh I’m in pieces, it’s tearing me up but I know",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 29
+            },
+            {
+              "chord": "G",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "A heart that’s broke is a heart that’s been loved",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "C",
+              "position": 31
+            },
+            {
+              "chord": "G",
+              "position": 53
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus 1",
+      "lines": [
+        {
+          "text": "So I’ll sing Hallelujah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            },
+            {
+              "chord": "F",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "You were an angel in the shape of my mum",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "Em",
+              "position": 41
+            },
+            {
+              "chord": "F",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "When I fell down you’d be there",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Holding me up, spread your wings as you go",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 29
+            },
+            {
+              "chord": "G",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "And when God takes you back, he’ll say Hallelujah, you’re home",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            },
+            {
+              "chord": "F",
+              "position": 28
+            },
+            {
+              "chord": "C",
+              "position": 40
+            },
+            {
+              "chord": "G",
+              "position": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I fluffed the pillows, made the beds, stacked the chairs up",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            },
+            {
+              "chord": "F",
+              "position": 56
+            }
+          ]
+        },
+        {
+          "text": "Folded your nightgowns neatly in a case",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            },
+            {
+              "chord": "F",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "John said he’d drive then put his hand on my cheek",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 2
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "F",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 56
+            }
+          ]
+        },
+        {
+          "text": "And wiped a tear from the side of my face",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 27
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus 2",
+      "lines": [
+        {
+          "text": "And I hope that I see the world as you did cause I know",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 19
+            },
+            {
+              "chord": "C",
+              "position": 30
+            },
+            {
+              "chord": "G",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "A life with love is a life that’s been lived",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 15
+            },
+            {
+              "chord": "C",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus 2",
+      "lines": [
+        {
+          "text": "So I’ll sing Hallelujah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            },
+            {
+              "chord": "F",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "You were an angel in the shape of my mum",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "Em",
+              "position": 41
+            },
+            {
+              "chord": "F",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "When I fell down you’d be there",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Holding me up, spread your wings as you go",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 29
+            },
+            {
+              "chord": "G",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "And when God takes you back, he’ll say Hallelujah, you’re home",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            },
+            {
+              "chord": "F",
+              "position": 28
+            },
+            {
+              "chord": "C",
+              "position": 40
+            },
+            {
+              "chord": "G",
+              "position": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "Ooh ooh ooh",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Ooh ooh ooh",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Ooh ooh ooh",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Ooh ooh ooh",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus 3",
+      "lines": [
+        {
+          "text": "Hallelujah",
+          "chords": [ {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 8
+            }]
+        },
+        {
+          "text": "You were an angel in the shape of my mum",
+          "chords": [ {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            },
+            {
+              "chord": "F",
+              "position": 36
+            }]
+        },
+        {
+          "text": "You got to see the person I have become, spread your wings and I know that when",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 26
+            },
+            {
+              "chord": "F",
+              "position": 40
+            },
+            {
+              "chord": "C",
+              "position": 55
+            },
+            {
+              "chord": "G",
+              "position": 69
+            }
+          ]
+        },
+        {
+          "text": "God took you back, he said Hallelujah, you’re home",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 1
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 38
+            },
+            {
+              "chord": "C",
+              "position": 51
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767461452220,
+  "title": "Future Days",
+  "artist": "Joel",
+  "key": "",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "If I ever were to lose you, I'd surely lose myself.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "Everything I have found here, I've not found by myself.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "C",
+              "position": 50
+            }
+          ]
+        },
+        {
+          "text": "Try and sometimes you'll succeed, to make this man of me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 25
+            },
+            {
+              "chord": "C",
+              "position": 54
+            }
+          ]
+        },
+        {
+          "text": "All my stolen missing parts, I've no need for anymore.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 48
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "'Cause I believe, and I believe 'cause I can see",
+          "chords": [{
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "G/B",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 28
+            },
+            {
+              "chord": "C",
+              "position": 40
+            }]
+        },
+        {
+          "text": "Our future days, days of you and me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G/B",
+              "position": 5
+            },
+            {
+              "chord": "Am7",
+              "position": 10
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+]
