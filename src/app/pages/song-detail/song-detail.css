@@ -192,16 +192,23 @@ h4 {
     font-size: 16px;
   }
 
-  /* ===== LÍNEAS DE CANCIÓN (CLAVE) ===== */
+  /* ===== CANCIÓN (SCROLL HORIZONTAL GLOBAL) ===== */
 
-  .line {
-    margin-bottom: 22px;
-    overflow-x: auto;              /* 👉 permite scroll lateral */
+  .song {
+    overflow-x: auto;                 /* 👉 UN solo scroll horizontal */
+    -webkit-overflow-scrolling: touch;
   }
 
+  /* Evitar wrap en TODO el contenido musical */
+  .line,
   .chords,
   .text {
-    white-space: nowrap;           /* 👉 evita el wrap */
+    white-space: nowrap;
+  }
+
+  /* Espaciado vertical cómodo */
+  .line {
+    margin-bottom: 22px;
   }
 
   /* Texto más cómodo en móvil */
