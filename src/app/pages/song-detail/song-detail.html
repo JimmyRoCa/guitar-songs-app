@@ -1,6 +1,6 @@
 <div
   *ngIf="song$ | async as song; else loading"
-  [class.stage-mode]="isStageMode"
+  [class.dark-mode]="isStageMode"
 >
 
   <h1>{{ song.title }}</h1>

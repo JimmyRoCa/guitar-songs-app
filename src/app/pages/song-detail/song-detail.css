@@ -1,3 +1,10 @@
+/* ===== BASE ===== */
+
+:host {
+  display: block;
+  width: 100%;
+}
+
 h1 {
   margin-bottom: 4px;
 }
@@ -10,99 +17,26 @@ h3 {
 
 .song {
   margin-top: 24px;
+  width: 100%;
+  max-width: 100%;
+  font-family: 'Merriweather', serif;
 }
 
-.line {
-  margin-bottom: 16px;
-}
-
-.chord {
-  display: block;
-  font-weight: bold;
-  color: #2e7d32;
-  font-size: 16px;
-}
-
-.text {
-  font-size: 18px;
-  line-height: 1.4;
-}
-.transpose {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin: 16px 0;
-}
-
-.transpose button {
-  font-size: 18px;
-  padding: 4px 10px;
-  cursor: pointer;
-}
-.stage-btn {
-  margin: 12px 0;
-  padding: 8px 12px;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-/* ===== MODO ESCENARIO ===== */
-
-.stage-mode {
-  background: #000;
-  color: #fff;
-  padding: 24px;
-}
-
-.stage-mode h1,
-.stage-mode h3 {
-  text-align: center;
-}
-
-.stage-mode .song {
-  margin-top: 40px;
-}
-
-.stage-mode .line {
-  margin-bottom: 28px;
-}
-
-.stage-mode .chord {
-  font-size: 26px;
-  color: #81c784;
-}
-
-.stage-mode .text {
-  font-size: 30px;
-  line-height: 1.4;
-}
-.controls {
-  display: flex;
-  gap: 12px;
-  margin: 16px 0;
-}
-.speed {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.speed span {
-  min-width: 20px;
-  text-align: center;
-  font-weight: bold;
-}
-.controls {
-  position: sticky;
-  top: 0;
-  background: inherit;
-  padding: 12px 0;
-  z-index: 10;
-}
 .line {
   position: relative;
   margin-bottom: 16px;
 }
+
+.text {
+  display: block;
+  font-size: 18px;
+  line-height: 1.4;
+  white-space: normal;
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+/* ===== ACORDES (DESKTOP) ===== */
 
 .chords {
   position: relative;
@@ -111,73 +45,10 @@ h3 {
 
 .chord {
   position: absolute;
-  font-weight: bold;
-  color: #2e7d32;
-}
-
-.text {
-  display: block;
-  font-size: 18px;
-}
-
-/* ===== TOP BAR ===== */
-
-.top-bar {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-  background: #f5f5f5;        /* CLARO */
-  color: #111;
-  padding: 10px 12px;
-  display: grid;
-  grid-template-columns: auto auto auto;
-  gap: 16px;
-  align-items: center;
-  border-bottom: 1px solid #ddd;
-}
-
-
-.top-bar button {
-  background: #222;
-  color: white;
-  border: 1px solid #444;
-  padding: 6px 10px;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
-/* ===== TIPOGRAFÍA ===== */
-
-@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=JetBrains+Mono&display=swap');
-
-.song {
-  font-family: 'Merriweather', serif;
-}
-
-.chord {
   font-family: 'JetBrains Mono', monospace;
-}
-
-/* ===== MODO ESCENARIO MEJORADO ===== */
-
-.stage-mode {
-  background: #000;
-  color: #eee;
-}
-
-.stage-mode .top-bar {
-  background: #000;
-  border-bottom: 1px solid #222;
-}
-
-.stage-mode .text {
-  font-size: 22px;
-  line-height: 1.8;
-}
-
-.stage-mode .chord {
-  font-size: 20px;
-  color: #4caf50;
+  font-weight: bold;
+  font-size: 16px;
+  color: #2e7d32;
 }
 
 /* ===== SECCIONES ===== */
@@ -191,36 +62,41 @@ h4 {
   letter-spacing: 1px;
 }
 
-/* ===== MÓVIL ===== */
+/* ===== TOP BAR ===== */
 
-@media (max-width: 600px) {
-  .top-bar {
-    flex-wrap: wrap;
-    gap: 8px;
-  }
-
-  .text {
-    font-size: 18px;
-  }
-}
-.dark-mode {
-  background: #000;
-  color: #eee;
-}
-
-.dark-mode .top-bar {
-  background: #111;
-  color: #eee;
-  border-bottom: 1px solid #333;
+.top-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: #f5f5f5;
+  color: #111;
+  padding: 10px 12px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 16px;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
 }
 
-.dark-mode .top-bar button {
-  background: #222;
-  color: #eee;
-  border-color: #444;
+.top-bar,
+.top-bar * {
+  color: inherit;
 }
 
-.transpose {
+.top-bar button {
+  background: #fff;
+  color: #111;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* ===== CONTROLES ===== */
+
+.transpose,
+.autoscroll,
+.speed {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -229,7 +105,6 @@ h4 {
 .transpose .label {
   font-size: 14px;
   opacity: 0.7;
-  margin-right: 6px;
 }
 
 .transpose .value {
@@ -237,29 +112,45 @@ h4 {
   text-align: center;
   font-weight: bold;
 }
-.autoscroll {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+
+/* ===== DARK MODE ===== */
+
+.dark-mode {
+  background: #000;
+  color: #eee;
+  min-height: 100vh;
+  width: 100%;
 }
 
-.speed {
-  display: flex;
-  align-items: center;
-  gap: 6px;
+.dark-mode h3 {
+  color: #aaa;
 }
-.top-bar,
-.top-bar * {
-  color: inherit;
+
+.dark-mode .top-bar {
+  background: #111;
+  border-bottom: 1px solid #333;
 }
-.transpose .label {
-  opacity: 0.7;
+
+.dark-mode .top-bar button {
+  background: #333;
+  color: #fff;
+  border-color: #555;
 }
+
 
 .dark-mode .transpose .label {
   opacity: 0.85;
 }
+
+.dark-mode .chord {
+  color: #4caf50;
+}
+
+/* ===== MÓVIL (CLAVE) ===== */
+
 @media (max-width: 600px) {
+
+  /* Top bar en dos filas */
   .top-bar {
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
@@ -281,33 +172,52 @@ h4 {
     grid-area: autoscroll;
     justify-content: center;
   }
-}
-@media (max-width: 600px) {
+
   .top-bar button {
     padding: 10px 14px;
     font-size: 16px;
   }
-}
-@media (max-width: 600px) {
+
+  /* Texto más cómodo */
   .text {
     font-size: 20px;
     line-height: 1.6;
   }
 
-  .chord {
-    font-size: 16px;
-  }
-}
-@media (max-width: 600px) {
   .line {
     margin-bottom: 22px;
   }
-}
-@media (max-width: 600px) {
+
+  /* 🔥 ACORDES EN MÓVIL: NO ABSOLUTE */
+  .chords {
+    height: auto;
+  }
+
+  .chord {
+    position: relative;
+    left: 0 !important;
+    display: inline-block;
+    margin-right: 8px;
+    margin-bottom: 4px;
+    font-size: 16px;
+  }
+
   a[routerLink] {
     display: block;
     margin: 40px 0 20px;
     font-size: 18px;
     text-align: center;
   }
+  .dark-mode {
+  background: #000;
+  color: #eee;
+}
+
+.dark-mode h1,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode .text {
+  color: #eee;
+}
+
 }
