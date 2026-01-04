@@ -188,8 +188,8 @@ h4 {
   }
 
   .top-bar button {
-    padding: 10px 14px;
-    font-size: 16px;
+    padding: 8px 12px;
+    font-size: 14px;
   }
 
   /* ===== CANCIÓN (SCROLL HORIZONTAL GLOBAL) ===== */
@@ -213,8 +213,8 @@ h4 {
 
   /* Texto más cómodo en móvil */
   .text {
-    font-size: 20px;
-    line-height: 1.6;
+    font-size: 14px;
+    line-height: 1.2;
   }
 
   /* Link volver */
