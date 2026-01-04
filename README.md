@@ -1,59 +1,69 @@
-# GuitarSongs
+# 🎸 Guitar Songs App
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.4.
 
-## Development server
+A personal web application to store, read and play guitar songs with chords.  
+Designed to be **simple, readable and usable while playing**, both on desktop and mobile.
 
-To start a local development server, run:
+The app supports:
+- Lyrics with chords displayed **above the text** (Ultimate Guitar–style)
+- Chord transposition
+- Auto-scroll (useful while playing)
+- Dark / Light mode
+- Mobile-friendly layout
+- Converting raw chord sheets into structured JSON
+
+---
+
+## 🧠 Motivation
+
+This project was created as a **learning project with Angular**, but also as a **real tool** to use while practicing guitar.  
+The goal is to progressively add features while keeping the app lightweight and easy to use.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Angular** (standalone components)
+- TypeScript
+- HTML / CSS
+- GitHub Pages for deployment
+
+No backend required — everything runs on the client.
+
+---
+
+## 🧪 Development
+
+### Develop locally
+
+Upload changes to git
+```bash
+git add .
+git commit -m "mensaje"
+git push
+```
+
+### Run locally
 
 ```bash
 ng serve
 ```
+Then open: http://localhost:4200
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 🚀 Deployment (GitHub Pages)
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+This projectis doployed **GitHub Pages** using `angular-cli-ghpages`.
 
+### 🔧 Requirements
+- Node.js
+- Angular CLI
+
+### 🧪 Upload Deployment
 ```bash
-ng generate component component-name
+ng build --configuration production --base-href /guitar-songs-app/
+npx angular-cli-ghpages --dir=dist/guitar-songs/browser
 ```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+The app will be available in https://YOUR_USER.github.io/guitar-songs-app/
