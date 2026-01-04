@@ -146,11 +146,25 @@ h4 {
   color: #4caf50;
 }
 
+
+  .dark-mode {
+  background: #000;
+  color: #eee;
+}
+
+.dark-mode h1,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode .text {
+  color: #eee;
+}
+
 /* ===== MÓVIL (CLAVE) ===== */
 
 @media (max-width: 600px) {
 
-  /* Top bar en dos filas */
+  /* ===== TOP BAR ===== */
+
   .top-bar {
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
@@ -178,46 +192,29 @@ h4 {
     font-size: 16px;
   }
 
-  /* Texto más cómodo */
+  /* ===== LÍNEAS DE CANCIÓN (CLAVE) ===== */
+
+  .line {
+    margin-bottom: 22px;
+    overflow-x: auto;              /* 👉 permite scroll lateral */
+  }
+
+  .chords,
+  .text {
+    white-space: nowrap;           /* 👉 evita el wrap */
+  }
+
+  /* Texto más cómodo en móvil */
   .text {
     font-size: 20px;
     line-height: 1.6;
   }
 
-  .line {
-    margin-bottom: 22px;
-  }
-
-  /* 🔥 ACORDES EN MÓVIL: NO ABSOLUTE */
-  .chords {
-    height: auto;
-  }
-
-  .chord {
-    position: relative;
-    left: 0 !important;
-    display: inline-block;
-    margin-right: 8px;
-    margin-bottom: 4px;
-    font-size: 16px;
-  }
-
+  /* Link volver */
   a[routerLink] {
     display: block;
     margin: 40px 0 20px;
     font-size: 18px;
     text-align: center;
   }
-  .dark-mode {
-  background: #000;
-  color: #eee;
-}
-
-.dark-mode h1,
-.dark-mode h3,
-.dark-mode h4,
-.dark-mode .text {
-  color: #eee;
-}
-
 }
