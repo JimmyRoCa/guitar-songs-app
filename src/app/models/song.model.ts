@@ -10,8 +10,17 @@ export interface SongLine {
 
 export interface SongSection {
   title?: string;
-  lines: SongLine[];
+
+  /** Tipo de sección: acordes o tabs */
+  type?: 'chords' | 'tabs';
+
+  /** Para secciones de acordes */
+  lines?: SongLine[];
+
+  /** Para secciones de tabs */
+  tabs?: Array<String>;
 }
+
 
 export interface Song {
   id: number;

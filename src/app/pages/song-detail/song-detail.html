@@ -35,28 +35,39 @@
 </div>
 
 
-  <div class="song">
-    <div *ngFor="let section of song.sections">
-      
-      <h4 *ngIf="section.title">{{ section.title }}</h4>
+<div class="song">
+  <div *ngFor="let section of song.sections">
 
+    <h4 *ngIf="section.title">{{ section.title }}</h4>
+
+    <!-- ===== SECCIÓN DE ACORDES ===== -->
+    <ng-container *ngIf="!section.type || section.type === 'chords'">
       <div class="line" *ngFor="let line of section.lines">
         <div class="chords">
-            <span
-                class="chord"
-                *ngFor="let c of line.chords"
-                [style.left.ch]="c.position"
-            >
-                {{ transposeChord(c.chord) }}
-            </span>
-            </div>
+          <span
+            class="chord"
+            *ngFor="let c of line.chords"
+            [style.left.ch]="c.position"
+          >
+            {{ transposeChord(c.chord) }}
+          </span>
+        </div>
         <span class="text">{{ line.text }}</span>
       </div>
+    </ng-container>
 
-    </div>
+    <!-- ===== SECCIÓN DE TABS ===== -->
+    <ng-container *ngIf="section.type === 'tabs' && section.tabs as tabs">
+      <pre class="tabs">
+{{      tabs.join('\n') }}
+      </pre>
+    </ng-container>
+
   </div>
+</div>
 
-  <a routerLink="/">⬅ Back</a>
+
+  <a routerLink="/" class="back-link">⬅ Back</a>
 </div>
 
 <ng-template #loading>
