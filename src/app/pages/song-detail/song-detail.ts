@@ -37,10 +37,18 @@ export class SongDetailComponent {
 }
 
 isStageMode = false;
+isDarkMode = false;
 
-toggleStageMode() {
-  this.isStageMode = !this.isStageMode;
+ngOnInit() {
+  this.isDarkMode = document.body.classList.contains('dark-mode');
 }
+
+
+toggleDarkMode() {
+  this.isDarkMode = !this.isDarkMode;
+  document.body.classList.toggle('dark-mode', this.isDarkMode);
+}
+
 
 isAutoScroll = false;
 scrollInterval: any = null;
@@ -86,9 +94,6 @@ decreaseTranspose() {
 increaseTranspose() {
   this.transposeSteps++;
 }
-
-
-
 
   constructor(
     private route: ActivatedRoute,

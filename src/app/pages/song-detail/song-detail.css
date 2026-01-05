@@ -68,8 +68,8 @@ h4 {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: #f5f5f5;
-  color: #111;
+  background: inherit;
+  color: inherit;
   padding: 10px 12px;
   display: grid;
   grid-template-columns: auto auto auto;
@@ -157,6 +157,32 @@ h4 {
 .dark-mode h4,
 .dark-mode .text {
   color: #eee;
+}
+
+.song-detail {
+  min-height: 100vh;
+}
+
+/* Colores SOLO cuando dark mode está activo */
+body.dark-mode .song-detail {
+  background: transparent;
+}
+
+body.dark-mode h1,
+body.dark-mode h3,
+body.dark-mode h4,
+body.dark-mode .text {
+  color: #eee;
+}
+
+body.dark-mode .chord {
+  color: #4caf50;
+}
+
+body.dark-mode .top-bar button {
+  background: #222;
+  color: #eee;
+  border: 1px solid #444;
 }
 
 /* ===== MÓVIL (CLAVE) ===== */

@@ -2,6 +2,9 @@
 
   <header class="header">
     <h1>🎸 My Songs</h1>
+      <button class="dark-toggle" (click)="toggleDarkMode()">
+        {{ isDarkMode ? 'Light mode ☀️' : 'Dark mode 🌙' }}
+    </button>
   </header>
 
   <div class="actions">

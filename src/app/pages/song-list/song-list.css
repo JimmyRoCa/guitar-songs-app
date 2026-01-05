@@ -125,6 +125,25 @@ li {
   margin-top: 20px;
 }
 
+/* ===== DARK/LIGHT MODE ===== */
+
+.dark-toggle {
+  margin-top: 12px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+body.dark-mode .dark-toggle {
+  background: #222;
+  color: #eee;
+  border-color: #444;
+}
+
+
 /* ===== MOBILE ===== */
 
 @media (max-width: 600px) {
