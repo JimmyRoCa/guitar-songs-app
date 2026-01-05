@@ -1,0 +1,1 @@
+html,body{margin:0;padding:0;min-height:100vh;background:#fff;color:#111}body.dark-mode{background:#000;color:#eee}.back-link{display:inline-flex;align-items:center;gap:6px;margin:32px 0 16px;padding-left:12px;font-size:20px;font-weight:500;color:#4caf50;text-decoration:none}.back-link:hover{text-decoration:underline}body.dark-mode .back-link{color:#81c784}
