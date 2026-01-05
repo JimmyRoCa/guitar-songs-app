@@ -1,27 +1,43 @@
-<h1>🎸 Mis canciones</h1>
+<div class="song-list">
 
-<a routerLink="/add" class="add-btn">➕ Añadir canción</a>
-<a routerLink="/convert" class="add-btn">🔁 Convertir a JSON</a>
+  <header class="header">
+    <h1>🎸 My Songs</h1>
+  </header>
 
-<input
-  type="text"
-  placeholder="Buscar por título o artista…"
-  (input)="onSearch($any($event.target).value)"
-/>
+  <div class="actions">
+    <a routerLink="/add" class="primary-btn">➕ Add song</a>
+    <a routerLink="/convert" class="secondary-btn">🔁 Convert to JSON</a>
+  </div>
 
-<ul *ngIf="songs$ | async as songs; else loading">
-  <li *ngFor="let song of songs">
-    <a [routerLink]="['/song', song.id]">
-      <strong>{{ song.title }}</strong> – {{ song.artist }}
-    </a>
-  </li>
+  <div class="search-box">
+    <input
+      type="text"
+      placeholder="🔍 Search by title or artist…"
+      (input)="onSearch($any($event.target).value)"
+    />
+  </div>
 
-  <li *ngIf="songs.length === 0">
-    No se encontraron canciones
-  </li>
-</ul>
+  <div class="sort-controls">
+    <span>Sort by:</span>
+    <button (click)="setSort('title')">Title</button>
+    <button (click)="setSort('artist')">Artist</button>
+  </div>
 
-<ng-template #loading>
-  <p>Cargando canciones…</p>
-</ng-template>
+  <ul *ngIf="songs$ | async as songs; else loading">
+    <li *ngFor="let song of songs">
+      <a [routerLink]="['/song', song.id]" class="song-item">
+        <strong>{{ song.title }}</strong>
+        <span>{{ song.artist }}</span>
+      </a>
+    </li>
 
+    <li *ngIf="songs.length === 0" class="empty">
+      No songs found
+    </li>
+  </ul>
+
+  <ng-template #loading>
+    <p class="loading">Loading songs…</p>
+  </ng-template>
+
+</div>

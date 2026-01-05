@@ -1,25 +1,25 @@
-<h1>➕ Añadir canción</h1>
+<h1>➕ Add song</h1>
 
 <label>
-  Título
+  Title
   <input [(ngModel)]="title" />
 </label>
 
 <label>
-  Artista
+  Artist
   <input [(ngModel)]="artist" />
 </label>
 
 <label>
-  Tono
+  Capo
   <input [(ngModel)]="key" />
 </label>
 
 <label>
-  Letra + acordes
+  Lyrics + Chords
   <textarea [(ngModel)]="rawText" rows="15"></textarea>
 </label>
 
-<button (click)="save()">Guardar</button>
+<button (click)="save()">Save</button>
 
-<a routerLink="/">⬅ Volver</a>
+<a routerLink="/">⬅ Back</a>

@@ -29,7 +29,7 @@ h3 {
 
 .text {
   display: block;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.4;
   white-space: normal;
   word-break: keep-all;
@@ -197,7 +197,7 @@ h4 {
   .song {
     overflow-x: auto;                 /* 👉 UN solo scroll horizontal */
     -webkit-overflow-scrolling: touch;
-    font-size: 0.9em;
+    font-size: 0.95em;
   }
 
   /* Evitar wrap en TODO el contenido musical */

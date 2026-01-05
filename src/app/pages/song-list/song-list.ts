@@ -16,19 +16,25 @@ import { Song } from '../../models/song.model';
 export class SongListComponent {
 
   private search$ = new BehaviorSubject<string>('');
+  private sort$ = new BehaviorSubject<'title' | 'artist'>('title');
   songs$: Observable<Song[]>;
 
   constructor(private songsService: SongsService) {
 
-    this.songs$ = combineLatest<[Song[], string]>([
+    this.songs$ = combineLatest<[Song[], string, 'title' | 'artist']>([
       this.songsService.getSongs(),
-      this.search$
+      this.search$,
+      this.sort$
     ]).pipe(
-      map(([songs, search]) =>
-        songs.filter(song =>
-          song.title.toLowerCase().includes(search) ||
-          song.artist.toLowerCase().includes(search)
-        )
+      map(([songs, search, sort]) =>
+        [...songs]
+          .filter(song =>
+            song.title.toLowerCase().includes(search) ||
+            song.artist.toLowerCase().includes(search)
+          )
+          .sort((a, b) =>
+            a[sort].localeCompare(b[sort])
+          )
       )
     );
   }
@@ -36,4 +42,9 @@ export class SongListComponent {
   onSearch(value: string) {
     this.search$.next(value.toLowerCase());
   }
+
+  setSort(mode: 'title' | 'artist') {
+    this.sort$.next(mode);
+  }
+
 }

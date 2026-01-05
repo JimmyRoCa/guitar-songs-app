@@ -4,7 +4,8 @@
 >
 
   <h1>{{ song.title }}</h1>
-  <h3>{{ song.artist }} · Tono: {{ song.key }}</h3>
+  <h2>{{ song.artist }}</h2>
+  <h3>Capo: {{ song.key }}</h3>
 
 <div class="top-bar">
   <div class="transpose">
@@ -55,9 +56,9 @@
     </div>
   </div>
 
-  <a routerLink="/">⬅ Volver</a>
+  <a routerLink="/">⬅ Back</a>
 </div>
 
 <ng-template #loading>
-  <p>Cargando canción…</p>
+  <p>Loading song…</p>
 </ng-template>

@@ -1,14 +1,88 @@
-input {
-  width: 100%;
-  padding: 8px;
-  font-size: 16px;
+.song-list {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* ===== HEADER ===== */
+
+.header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.header h1 {
+  margin-bottom: 4px;
+}
+
+.header p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* ===== ACTIONS ===== */
+
+.actions {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.primary-btn,
+.secondary-btn {
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 14px;
+  color: white;
+}
+
+.primary-btn {
+  background: #4caf50;
+}
+
+.secondary-btn {
+  background: #607d8b;
+}
+
+/* ===== SEARCH ===== */
+
+.search-box {
   margin-bottom: 16px;
 }
 
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
+.search-box input {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
 }
+
+/* ===== SORT ===== */
+
+.sort-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.sort-controls button {
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  cursor: pointer;
+}
+
+.sort-controls button:hover {
+  background: #e0e0e0;
+}
+
+/* ===== LIST ===== */
 
 ul {
   list-style: none;
@@ -19,21 +93,42 @@ li {
   margin-bottom: 12px;
 }
 
-a {
+.song-item {
+  display: block;
+  padding: 12px;
+  border-radius: 10px;
+  background: #f9f9f9;
   text-decoration: none;
-  font-size: 18px;
-  color: #333;
+  color: #222;
 }
 
-a:hover {
-  text-decoration: underline;
+.song-item:hover {
+  background: #ececec;
 }
-.add-btn {
-  display: inline-block;
-  margin-bottom: 16px;
-  padding: 8px 12px;
-  background: #4caf50;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
+
+.song-item strong {
+  display: block;
+  font-size: 16px;
+}
+
+.song-item span {
+  font-size: 13px;
+  color: #666;
+}
+
+/* ===== STATES ===== */
+
+.empty,
+.loading {
+  text-align: center;
+  color: #777;
+  margin-top: 20px;
+}
+
+/* ===== MOBILE ===== */
+
+@media (max-width: 600px) {
+  .actions {
+    flex-direction: column;
+  }
 }

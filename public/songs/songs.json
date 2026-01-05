@@ -3,7 +3,7 @@
   "id": 1767288146822,
   "title": "This Is The Life",
   "artist": "Amy Macdonald",
-  "key": "E A D G B E",
+  "key": "3",
   "sections": [
     {
       "title": "Verse",
@@ -525,7 +525,7 @@
   "id": 1767288036899,
   "title": "Take On Me",
   "artist": "A-ha",
-  "key": "E A D G B E",
+  "key": "4th for the original - Very high",
   "sections": [
     {
       "title": "Verse 1",
@@ -621,7 +621,7 @@
               "position": 12
             },
             {
-              "chord": "D",
+              "chord": "C",
               "position": 19
             }
           ]
@@ -949,7 +949,7 @@
               "position": 12
             },
             {
-              "chord": "D",
+              "chord": "C",
               "position": 19
             }
           ]
@@ -1089,7 +1089,7 @@
   "id": 1767289056321,
   "title": "The One That Got Away",
   "artist": "Katy Perry",
-  "key": "E A D G B E",
+  "key": "1st",
   "sections": [
     {
       "title": "Verse 1",
@@ -1597,7 +1597,7 @@
   "id": 1767281469400,
   "title": "Stand By Me",
   "artist": "Ben E. King",
-  "key": "G C E A",
+  "key": "2nd",
   "sections": [
     {
       "title": "Verse 1",
@@ -1612,7 +1612,7 @@
           ]
         },
         {
-          "text": "And the land is dark",
+          "text": "ㅤㅤAnd the land is dark",
           "chords": [
             {
               "chord": "Em",
@@ -1727,7 +1727,7 @@
           ]
         },
         {
-          "text": "Should tumble and fall",
+          "text": "ㅤㅤShould tumble and fall",
           "chords": [
             {
               "chord": "Em",
@@ -1918,7 +1918,7 @@
   "id": 1767288300011,
   "title": "Nunca Te Olvidé",
   "artist": "Morat",
-  "key": "E A D G B E",
+  "key": "3rd",
   "sections": [
     {
       "lines": [
@@ -1961,20 +1961,12 @@
           "text": "Pero seamos sinceros",
           "chords": [
             {
-              "chord": "Am",
+              "chord": "F",
               "position": 0
             },
             {
               "chord": "G",
-              "position": 3
-            },
-            {
-              "chord": "F",
-              "position": 5
-            },
-            {
-              "chord": "G",
-              "position": 26
+              "position": 20
             }
           ]
         },
@@ -1983,7 +1975,7 @@
           "chords": [
             {
               "chord": "C",
-              "position": 12
+              "position": 16
             }
           ]
         },
@@ -1996,7 +1988,7 @@
             },
             {
               "chord": "Am",
-              "position": 13
+              "position": 17
             }
           ]
         },
@@ -2008,7 +2000,7 @@
               "position": 4
             },
             {
-              "chord": "Am",
+              "chord": "G",
               "position": 15
             },
             {
@@ -2016,12 +2008,8 @@
               "position": 22
             },
             {
-              "chord": "F",
-              "position": 37
-            },
-            {
               "chord": "G",
-              "position": 44
+              "position": 37
             }
           ]
         },
@@ -2050,7 +2038,7 @@
               "position": 0
             },
             {
-              "chord": "Am",
+              "chord": "G",
               "position": 11
             },
             {
@@ -2058,12 +2046,8 @@
               "position": 18
             },
             {
-              "chord": "F",
-              "position": 38
-            },
-            {
               "chord": "G",
-              "position": 45
+              "position": 38
             }
           ]
         },
@@ -2072,11 +2056,11 @@
           "chords": [
             {
               "chord": "F",
-              "position": 0
+              "position": 12
             },
             {
               "chord": "G",
-              "position": 21
+              "position": 38
             }
           ]
         },
@@ -2085,11 +2069,11 @@
           "chords": [
             {
               "chord": "C",
-              "position": 0
+              "position": 15
             },
             {
               "chord": "G",
-              "position": 15
+              "position": 25
             },
             {
               "chord": "Am",
@@ -2102,11 +2086,11 @@
           "chords": [
             {
               "chord": "F",
-              "position": 0
+              "position": 12
             },
             {
               "chord": "G",
-              "position": 22
+              "position": 38
             }
           ]
         },
@@ -2115,11 +2099,11 @@
           "chords": [
             {
               "chord": "C",
-              "position": 0
+              "position": 12
             },
             {
               "chord": "G",
-              "position": 12
+              "position": 22
             },
             {
               "chord": "Am",
@@ -2132,11 +2116,11 @@
           "chords": [
             {
               "chord": "F",
-              "position": 9
+              "position": 18
             },
             {
               "chord": "G",
-              "position": 29
+              "position": 39
             }
           ]
         },
@@ -2145,7 +2129,7 @@
           "chords": [
             {
               "chord": "C",
-              "position": 10
+              "position": 17
             },
             {
               "chord": "G",
@@ -2153,7 +2137,7 @@
             },
             {
               "chord": "Am",
-              "position": 50
+              "position": 40
             }
           ]
         },
@@ -2162,11 +2146,11 @@
           "chords": [
             {
               "chord": "F",
-              "position": 9
+              "position": 18
             },
             {
               "chord": "G",
-              "position": 29
+              "position": 42
             }
           ]
         },
@@ -2175,7 +2159,7 @@
           "chords": [
             {
               "chord": "C",
-              "position": 8
+              "position": 12
             }
           ]
         }
@@ -2187,7 +2171,7 @@
   "id": 1767288504913,
   "title": "La Carretera",
   "artist": "Prince Royce",
-  "key": "",
+  "key": "3rd",
   "sections": [
     {
       "title": "Intro",
@@ -2786,7 +2770,7 @@
   "id": 1767290192995,
   "title": "Supermarket Flowers",
   "artist": "Ed Sheeran",
-  "key": "C",
+  "key": "1st or 2nd",
   "sections": [
     {
       "title": "Verse 1",
@@ -2978,7 +2962,7 @@
             },
             {
               "chord": "G",
-              "position": 53
+              "position": 43
             }
           ]
         }
@@ -3073,6 +3057,10 @@
             {
               "chord": "G",
               "position": 50
+            },
+            {
+              "chord": "C",
+              "position": 60
             }
           ]
         }
@@ -3295,6 +3283,10 @@
             {
               "chord": "G",
               "position": 50
+            },
+            {
+              "chord": "C",
+              "position": 60
             }
           ]
         }
@@ -3460,7 +3452,7 @@
   "id": 1767461452220,
   "title": "Future Days",
   "artist": "Joel",
-  "key": "",
+  "key": "3rd - Very Low",
   "sections": [
     {
       "title": "Verse",
@@ -3550,7 +3542,7 @@
             },
             {
               "chord": "F",
-              "position": 28
+              "position": 24
             },
             {
               "chord": "C",
