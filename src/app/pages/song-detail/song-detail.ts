@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { ActivatedRoute, RouterModule } from '@angular/router';
 import { Observable, switchMap } from 'rxjs';
 import { SongsService } from '../../services/songs.service';
+import { ThemeService } from '../../services/theme.service';
 import { Song } from '../../models/song.model';
 
 @Component({
@@ -37,16 +38,15 @@ export class SongDetailComponent {
 }
 
 isStageMode = false;
-isDarkMode = false;
 
-ngOnInit() {
-  this.isDarkMode = document.body.classList.contains('dark-mode');
-}
 
 
 toggleDarkMode() {
-  this.isDarkMode = !this.isDarkMode;
-  document.body.classList.toggle('dark-mode', this.isDarkMode);
+  this.themeService.toggleDarkMode();
+}
+
+get isDarkMode() {
+  return this.themeService.isDarkMode();
 }
 
 
@@ -97,7 +97,8 @@ increaseTranspose() {
 
   constructor(
     private route: ActivatedRoute,
-    private songsService: SongsService
+    private songsService: SongsService,
+    private themeService: ThemeService
   ) {
     this.song$ = this.route.paramMap.pipe(
       switchMap(params => {

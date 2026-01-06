@@ -4,6 +4,7 @@ import { RouterModule } from '@angular/router';
 import { Observable, combineLatest, BehaviorSubject } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { SongsService } from '../../services/songs.service';
+import { ThemeService } from '../../services/theme.service';
 import { Song } from '../../models/song.model';
 
 @Component({
@@ -19,7 +20,9 @@ export class SongListComponent {
   private sort$ = new BehaviorSubject<'title' | 'artist'>('title');
   songs$: Observable<Song[]>;
 
-  constructor(private songsService: SongsService) {
+  constructor(private songsService: SongsService,
+    private themeService: ThemeService
+  ) {
 
     this.songs$ = combineLatest<[Song[], string, 'title' | 'artist']>([
       this.songsService.getSongs(),
@@ -47,17 +50,12 @@ export class SongListComponent {
     this.sort$.next(mode);
   }
 
-isDarkMode = false;
-
-ngOnInit() {
-  this.isDarkMode = document.body.classList.contains('dark-mode');
-}
-
 toggleDarkMode() {
-  this.isDarkMode = !this.isDarkMode;
-  document.body.classList.toggle('dark-mode', this.isDarkMode);
+  this.themeService.toggleDarkMode();
+}  
+
+get isDarkMode() {
+  return this.themeService.isDarkMode();
 }
-
-
 
 }
