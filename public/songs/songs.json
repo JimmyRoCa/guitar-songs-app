@@ -3449,11 +3449,34 @@
   ]
 },
 {
-  "id": 1767461452220,
-  "title": "Future Days",
+  "id": 176746145222,
+  "title": "Future Days (With Tabs)",
   "artist": "Joel",
   "key": "3rd - Very Low",
   "sections": [
+    {
+  "title": "Riff #1",
+  "type": "tabs",
+    "tabs": [
+    "____________________________________",
+    "Chord|C                           |",
+    "    e|0--1p0------|---------------|",
+    "    B|1-------3p1-|1-----1---1----|",
+    "    G|0-----------|---0--0⏜2----2-|",
+    "    D|2-----------|------3--------|",
+    "    A|3-----------|---------------|",
+    "    E|------------|---------------|",
+    "____________________________________",
+    "Chord|                          C |",
+    "    e|-----------------------|--0-|",
+    "    B|-1----1-------1--------|--1-|",
+    "    G|-0⏜2-----------2---0---|--0-|",
+    "    D|-3---------------3-----|--2-|",
+    "    A|-----------3-----------|--3-|",
+    "    E|-----------------------|----|",
+    "____________________________________"
+    ]
+    },
     {
       "title": "Verse",
       "lines": [
@@ -3575,9 +3598,2121 @@
           ]
         }
       ]
+    },
+    {
+  "title": "Riff #2",
+  "type": "tabs",
+    "tabs": [
+    "____________________________________",
+    "Chord|C                           |",
+    "    e|0--1p0------|---------------|",
+    "    B|1-------3p1-|1-----1---1----|",
+    "    G|------------|---0--0⏜2----2-|",
+    "    D|------------|------3--------|",
+    "    A|3-----------|---------------|",
+    "    E|------------|---------------|",
+    "____________________________________",
+    "Chord|                          C |",
+    "    e|-----------------------|--0-|",
+    "    B|-1----1-------1--------|--1-|",
+    "    G|-0⏜2-----------2---0---|--0-|",
+    "    D|-3---------------3-----|--2-|",
+    "    A|-----------3-----------|--3-|",
+    "    E|-----------------------|----|",
+    "____________________________________",
+    "Chord|C                           |",
+    "    e|0--1p0------|---------------|",
+    "    B|1-------3p1-|1-----1---1----|",
+    "    G|0-----------|---0--0⏜2----2-|",
+    "    D|2-----------|------3--------|",
+    "    A|3-----------|---------------|",
+    "    E|------------|---------------|",
+    "____________________________________",
+    "Chord|                          C |",
+    "    e|-----------------------|--0-|",
+    "    B|-1----1-------1--------|--1-|",
+    "    G|-0⏜2-----------2---0---|--0-|",
+    "    D|-3---------------3-----|--2-|",
+    "    A|-----------3-----------|--3-|",
+    "    E|-----------------------|----|",
+    "____________________________________"
+    ]
+    }
+  ]
+},
+{
+  "id": 1767894924007,
+  "title": "Angels",
+  "artist": "Robbie Williams",
+  "key": "1st - 2nd",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "I sit and wait. Does an angel contemplate my fate.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "Em",
+              "position": 51
+            },
+            {
+              "chord": "D",
+              "position": 54
+            }
+          ]
+        },
+        {
+          "text": "And do they know the places were we go when we're grey and old.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 58
+            },
+            {
+              "chord": "Em",
+              "position": 64
+            },
+            {
+              "chord": "D",
+              "position": 67
+            }
+          ]
+        },
+        {
+          "text": "Cuz I have been told that salvation lets their wings unfold.",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "Em",
+              "position": 52
+            },
+            {
+              "chord": "C",
+              "position": 59
+            }
+          ]
+        },
+        {
+          "text": "So when I'm lying in my bed,",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Thoughts running through my head,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "And I feel that love is dead.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "text": "I'm loving angels instead.",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And through it all she offers me protection,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "A lot love and affection, whether I'm right or wrong.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 47
+            }
+          ]
+        },
+        {
+          "text": "And down the waterfall wherever it may take me,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 18
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "I know that life won't break me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "When I come to call, she won't forsake me.",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "I'm loving angels instead.",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "When I'm feeling weak and my pain walks down a one way street.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 47
+            },
+            {
+              "chord": "Em",
+              "position": 62
+            },
+            {
+              "chord": "D",
+              "position": 65
+            }
+          ]
+        },
+        {
+          "text": "I look above and I know I'll always be blessed with love.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 39
+            },
+            {
+              "chord": "Em",
+              "position": 58
+            },
+            {
+              "chord": "D",
+              "position": 61
+            }
+          ]
+        },
+        {
+          "text": "And as the feeling grows",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "she breathes flesh to my bones",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "And when love is dead,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "I'm loving angels instead.",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And through it all she offers me protection,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "A lot love and affection, whether I'm right or wrong.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 47
+            }
+          ]
+        },
+        {
+          "text": "And down the waterfall wherever it may take me,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 18
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "I know that life won't break me.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "When I come to call, she won't forsake me.",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "I'm loving angels instead.",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767895491672,
+  "title": "Better Man (With Tabs)",
+  "artist": "Robbie Williams",
+  "key": "2nd",
+  "sections": [
+    {
+  "title": "Tabs intro",
+  "type": "tabs",
+    "tabs": [
+    "____________________________________",
+    "    e|--3--3--3--3--3--3--3--3----3-|",
+    "    B|-0--0--0--1--1--1--0--0--0--1-|",
+    "    G|0--0--0--0--0--0--0--0--0-0-0-|",
+    "    D|------------------------------|",
+    "    A|------------------------------|",
+    "    E|------------------------------|",
+    "____________________________________"
+    ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Send someone to love me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "I need to rest in arms",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "Keep me safe from harm",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "In pouring rain",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Give me endless summer",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Lord I fear the cold",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Feel I'm getting old",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Before my time",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "As my soul heals the shame",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "I will grow through this pain",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Lord I'm doing all I can",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "To be a better man",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+  "title": "Riff #2",
+  "type": "tabs",
+    "tabs": [
+    "____________________________________",
+    "    e|--3-----3-----------3---------|",
+    "    B|-0-----0-----0------1---------|",
+    "    G|0-----0-----0-0-----0---------|",
+    "    D|------------------------------|",
+    "    A|------------------------------|",
+    "    E|------------------------------|",
+    "____________________________________"
+    ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Go easy on my conscience",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "'Cause it's not my fault",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "I know I've been taught",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "To take the blame",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Rest assured my angels",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Will catch my tears",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Walk me out of here",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "I'm in pain",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "As my soul heals the shame",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "I will grow through this pain",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Lord I'm doing all I can",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "To be a better man",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767898658253,
+  "title": "A Mi Manera",
+  "artist": "Guitarricadelafuente",
+  "key": "No Capo",
+  "sections": [
+    {
+      "title": "Intro",
+      "lines": [
+        {
+          "text": "Viví, siempre viví",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 1
+            },
+            {
+              "chord": "Em",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Lo afrontaré serenamente",
+          "chords": [
+            {
+              "chord": "Gm",
+              "position": 9
+            },
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Yo he crecido así",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 3
+            },
+            {
+              "chord": "Dm",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Te lo diré, sinceramente",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Viví la intensidad",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y no encontré jamás fronteras",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 11
+            },
+            {
+              "chord": "Fm",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Si bien, todo ello fue",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "A mi manera",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Jamás tuve un amor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Que, para mí, fuera importante",
+          "chords": [
+            {
+              "chord": "Gm",
+              "position": 9
+            },
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Tomé solo la flor",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 3
+            },
+            {
+              "chord": "Dm",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y lo mejor de cada instante",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Viajé y disfruté",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "No sé si más que otro cualquiera",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 11
+            },
+            {
+              "chord": "Fm",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Y así, logré seguir",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "A mi manera",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Tal vez lloré",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Tal vez reí",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Tal vez gané",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "O tal vez perdí",
+          "chords": [
+            {
+              "chord": "Fm",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Y ahora sé",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Que fui feliz",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Que si lloré",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "También amé",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Y todo fue",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Puedo decir",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "A mi manera",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767898777817,
+  "title": "Guantanamera",
+  "artist": "Guitarricadelafuente",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Intro",
+      "lines": [
+        {
+          "text": "Hace tiempo que olvidé",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "El sabor a agua salada",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "He vendido ya mi alma",
+          "chords": []
+        },
+        {
+          "text": "Al diablo por la plata",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Y ahora me muero de sed",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Pedacitos de La Habana",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "He bailado mil guajiras a la luz de la mañana",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Un disparo al corazón",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Guan, Guantanamera",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Y soy un goodfella'",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            },
+            {
+              "chord": "Em",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "La vida en la plazuela",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Mi cara en las monedas",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 3
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "La sangre se me altera",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Quiero resucitar",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Pa' sobrevivir me adentré en el humo",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "De tus cigarrillos acabamos hasta el culo",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Pintame la piel, angelito oscuro",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Y has quemado la ciudad",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Mamasita dame alas que me quiero ir a volar",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "En las Cuevas de Cañart, la vida es tan bonita que parece de verdad",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 41
+            },
+            {
+              "chord": "D",
+              "position": 63
+            }
+          ]
+        },
+        {
+          "text": "Pa' sobrevivir me adentré en el humo",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "De tus cigarrillos acabamos hasta el culo",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "Pintame la piel, angelito oscuro",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Y has quemado la ciudad",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Mamasita dame alas que me quiero ir a volar",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "En las Cuevas de Cañart, la vida es tan bonita que parece de verdad",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 41
+            },
+            {
+              "chord": "D",
+              "position": 63
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767899019577,
+  "title": "Sixtinain",
+  "artist": "Guitarricadelafuente",
+  "key": "1st",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Cantar para olvidar",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "El sabor amargo del mar",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 5
+            },
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y beber y beber y beber",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Hasta perder la formalidad",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            },
+            {
+              "chord": "F",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤPonme otra copa",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤPrueba o verdad",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤCon el alma rota",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "A mis cicatrices",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "Vinagre con sal",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "ㅤㅤㅤVoy viajando con las olas",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "E",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Evitando el temporal",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "No me falla la memoria",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Y tu tampoco lo harás",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Alargando esta historia",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Hasta que no haya final",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "En lo alto de la gloria",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y en lo bajo de este bar",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "ㅤㅤㅤNo queda nadie",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤA quien llamar",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤSe te hartaron los escondites",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Las horas de más",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Ódiame fuerte",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Quiereme más",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤTuviste la suerte de haber nacido",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "Am",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "En el sixtinain",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "ㅤㅤㅤVoy viajando con las olas",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "E",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Evitando en temporal",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "No me falla la memoria",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Y tu tampoco lo harás",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Alargando esta historia hasta que no haya final",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "En lo alto de la gloria y en lo bajo de este bar",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 46
+            },
+            {
+              "chord": "E",
+              "position": 55
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤY en lo bajo de este bar",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "E",
+              "position": 34
+            },
+            {
+              "chord": "Am",
+              "position": 42
+            },
+            {
+              "chord": "Dm",
+              "position": 50
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤEn lo alto de la gloria y en lo bajo de este bar",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "E",
+              "position": 10
+            },
+            {
+              "chord": "Am",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 36
+            },
+            {
+              "chord": "G",
+              "position": 42
+            },
+            {
+              "chord": "C",
+              "position": 54
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1767899500926,
+  "title": "110",
+  "artist": "Luis Fercán",
+  "key": "",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "ㅤㅤTengo el resto del dia para pensar en ti",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤY he decidido recordarte",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤayer fue como el dia en que conoci",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤPero todo era un poco mas fragil",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "Em",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤQueriamos encerrarnos antes de partir",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤla celda 110 fue la que tu encargaste",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "Em",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤY hoy un lobo ha despertado un poco mas feliz",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "G",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤy una gata se ha ido al curro sin puñales",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 25
+            },
+            {
+              "chord": "Em",
+              "position": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "yo que me muero al intentar llegar a tu raiz",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "G",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "y tu repites que soy mucho peor novio que amante.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 47
+            }
+          ]
+        },
+        {
+          "text": "prometo darte mas clavales con final feliz",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "y tu promete recorrerme el cuerpo entre cristales",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 27
+            },
+            {
+              "chord": "Em",
+              "position": 47
+            }
+          ]
+        }
+      ]
     }
   ]
 }
+
+
 
 
 ]

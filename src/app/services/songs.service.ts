@@ -55,7 +55,7 @@ parseAndCreateSong(data: {
     l.replace(/\r/g, '').trim();
 
   const isChord = (token: string) =>
-    /^[A-G][#b]?(m|maj|min|sus|dim|aug)?$/.test(token);
+    /^[A-G][#b]?(m|maj|maj7|m7|min|sus|sus2|sus4|dim|aug|add2|add9|7|5)?$/.test(token);
 
   const extractChords = (line: string): string[] => {
     return line
