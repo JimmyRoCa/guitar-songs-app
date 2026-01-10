@@ -20,7 +20,11 @@ export class SongsService {
         observer.complete();
         });
     });
-}   
+}
+
+private readonly CHORD_REGEX =
+  /\b([A-G][#b]?(maj7|m7|sus2|sus4|add9|add2|min|maj|dim|aug|m|7|5)?(\/[A-G][#b]?)?)\b/g;
+
 
 getSongs(): Observable<Song[]> {
   const localSongs = this.getLocalSongs().map(song =>
@@ -54,8 +58,13 @@ parseAndCreateSong(data: {
   const cleanLine = (l: string) =>
     l.replace(/\r/g, '').trim();
 
-  const isChord = (token: string) =>
-    /^[A-G][#b]?(m|maj|maj7|m7|min|sus|sus2|sus4|dim|aug|add2|add9|7|5)?$/.test(token);
+const isChord = (token: string) => {
+  const chordRegex = new RegExp(
+    this.CHORD_REGEX.source.replace(/\\b/g, ''),
+  );
+  return chordRegex.test(token);
+};
+
 
   const extractChords = (line: string): string[] => {
     return line
@@ -179,10 +188,9 @@ private normalizeSong(song: any): Song {
 private extractChordsWithPositions(line: string): { chord: string; position: number }[] {
   const result: { chord: string; position: number }[] = [];
 
-  const regex = /([A-G][#b]?(m|maj|min|sus|dim|aug)?)/g;
   let match: RegExpExecArray | null;
 
-  while ((match = regex.exec(line)) !== null) {
+  while ((match = this.CHORD_REGEX.exec(line)) !== null) {
     result.push({
       chord: match[1],
       position: match.index

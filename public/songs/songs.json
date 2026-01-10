@@ -4322,7 +4322,7 @@
   ]
 },
 {
-  "id": 1767898658253,
+  "id": 1768071406690,
   "title": "A Mi Manera",
   "artist": "Guitarricadelafuente",
   "key": "No Capo",
@@ -4351,7 +4351,7 @@
               "position": 9
             },
             {
-              "chord": "A",
+              "chord": "A7",
               "position": 20
             }
           ]
@@ -4364,7 +4364,7 @@
               "position": 3
             },
             {
-              "chord": "Dm",
+              "chord": "Dm7",
               "position": 15
             }
           ]
@@ -4395,7 +4395,7 @@
               "position": 2
             },
             {
-              "chord": "C",
+              "chord": "C7",
               "position": 15
             }
           ]
@@ -4465,7 +4465,7 @@
               "position": 9
             },
             {
-              "chord": "A",
+              "chord": "A7",
               "position": 20
             }
           ]
@@ -4478,7 +4478,7 @@
               "position": 3
             },
             {
-              "chord": "Dm",
+              "chord": "Dm7",
               "position": 15
             }
           ]
@@ -4509,7 +4509,7 @@
               "position": 2
             },
             {
-              "chord": "C",
+              "chord": "C7",
               "position": 15
             }
           ]
@@ -4571,7 +4571,7 @@
           "text": "Tal vez reí",
           "chords": [
             {
-              "chord": "C",
+              "chord": "C7",
               "position": 9
             }
           ]
@@ -4625,7 +4625,7 @@
           "text": "También amé",
           "chords": [
             {
-              "chord": "A",
+              "chord": "A7",
               "position": 9
             }
           ]
@@ -5493,7 +5493,7 @@
   "id": 1767899500926,
   "title": "110",
   "artist": "Luis Fercán",
-  "key": "",
+  "key": "4yt",
   "sections": [
     {
       "title": "Verse",
@@ -5710,8 +5710,2820 @@
       ]
     }
   ]
+},
+{
+  "id": 1768074193204,
+  "title": "Conmigo No Lloras",
+  "artist": "Walls",
+  "key": "4th",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Ojalá que te vaya bonito así sin mí",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Uh-uh-uh-uh-uh",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Y dejes de apretar los dientes",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Ojalá llegue gente a tu vida y rajes de mí",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "Uh-uh-uh-uh-uh",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Y aunque me odies, me recuerdes",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Sé que soy quizá muy complicado",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Matón y delicado, y de lo malo lo peor",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "¿Pero hace cuánto que no lloras?",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Yo recuerdo tus ojos rojicos como rosas",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "G",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Como todos me equivoco, pero conmigo no lloras",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "El día que estés con otro, y lo quieras de otra forma",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "Y te mire y tú recuerdes cómo te miraba yo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 22
+            },
+            {
+              "chord": "Am",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "No te pidas perdón (auh)",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Si te dan a elegir, entre morir a mi vera o volar",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 16
+            },
+            {
+              "chord": "D",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "Te pegarías a mí, como se pega la ropa mojá'",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "C",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "Porque el amor es algo más que huir",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Y tú siempre te has quedao´ a pelear",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Quiero morirme aquí contigo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Y aunque haya tanto que cambiar",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Dime, ¿hace cuánto que no lloras?",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Yo recuerdo tus ojos rojicos como rosas",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Como todos me equivoco, pero conmigo no lloras",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "El día que estés con otro, y lo quieras de otra forma",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "Te mire y te acuerdes de que conmigo no lloras",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "Yo recuerdo tus ojos rojicos como rosas",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Como todos me equivoco, pero conmigo no lloras",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "El día que estés con otro, y lo quieras de otra forma",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "Te mire y tú recuerdes cómo te miraba yo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "No te pidas perdón (ey)",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768074527413,
+  "title": "Si Seulement",
+  "artist": "Kendji",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Sur la scène j'ai laissé mon sourire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Mon sourire, mon sourire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Capitaine abandonné sans navire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Sans navire, sans navire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Pardon si j'ai préféré me détruire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Quitte à risquer d'abîmer mon empire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Sur la scène j'ai laissé mon sourire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Mon sourire, ah unh",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Si seulement j'avais su te le dire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Sans avoir à l'écrire sur ma peau",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Si seulement j’avais su t'en parler",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Sans la peur de gâcher la photo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Si seulement, oh ah ah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "J'avais su te le dire vraiment",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Si seulement, oh ah ah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "J'avais su te le dire avant",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "De nos années j'ai gardé ton sourire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Ton sourire, ton sourire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "C'est lui qui m'a réchauffé dans le pire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Dans le pire, dans le pire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Pardon si j'ai préféré retenir",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Les sanglots que je portais sans le dire",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "De nos années j'ai gardé ton sourire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Ton sourire, unh unh",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Si seulement j'avais su te le dire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Sans avoir à l'écrire sur ma peau",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Si seulement j’avais su t'en parler",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Sans la peur de gâcher la photo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Si seulement, oh ah ah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "J'avais su te le dire vraiment",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Si seulement, oh ah ah",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "J'avais su te le dire avant. Oh oh oh oh",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768074793462,
+  "title": "Les Yeux De La Mama",
+  "artist": "Kendji",
+  "key": "No Capo",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Quand j'ai froid elle se fait lumière,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Comme un soleil dans l'existence,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Quand j'ai mal elle se fait prière,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Elle me dit tout dans un silence,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Quand je souffre elle souffre avec moi,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Quand je ris elle rit aux éclats,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Mes chansons sont souvent pour elle,",
+          "chords": [
+            {
+              "chord": "B7",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Elle sera toujours ma merveille.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Quand je n'suis pas à la hauteur,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "Elle m'élève plus haut que le ciel,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "Elle est la splendeur des splendeurs,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Elle est la sève elle est le miel,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "C'est son sang qui coule dans mes veines,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Et des souvenirs par centaines,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Berce mon coeur de mille étoiles,",
+          "chords": [
+            {
+              "chord": "B7",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Elle est ma quête elle est mon graal.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Oh mon dieu laissez les moi,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Les beaux yeux de la mama,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Enlevez moi même tout le reste,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Mais pas la douceur de ses gestes.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Elle m'a porté avant le monde,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Elle me porte encore chaque seconde,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Elle m'emportera avec elle,",
+          "chords": [
+            {
+              "chord": "B7",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Je lui serai toujours fidèle.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "Quand je me blesse elle est douceur,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Comme une caresse dans l'existence,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Quand j'abandonne elle devient lionne,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Et me relève avec patience,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Quand j'ai la folie des grandeurs",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Elle me ramène sans me faire mal,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Elle est dans ce monde infernal,",
+          "chords": [
+            {
+              "chord": "B7",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Mon étoile parmi les étoiles.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Oh mon dieu laissez les moi,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Les beaux yeux de la mama,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Enlevez moi même tout le reste,",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "Mais pas la douceur de ses gestes.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Elle m'a porté avant le monde,",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "text": "Elle me porte encore chaque seconde,",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Elle m'emportera avec elle,",
+          "chords": [
+            {
+              "chord": "B7",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Je lui serai toujours fidèle.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768074878944,
+  "title": "Coeur Cerf-Volant",
+  "artist": "Kendji",
+  "key": "3rd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Est-ce que tu te souviens de moi",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "De qui j’étais encore hier",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "On s’est vu quand la dernière fois",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Est-ce que cette fois, c’est la première",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "C’est comment ton prénom déjà",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Tu ressembles un peu à ma mère",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Je ne te retiens pas longtemps",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Y’a des millions de choses à faire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "En attendant viens sur mon banc",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Voir comment la vie s’accélère",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Dis-moi si j’ai eu dеs enfants",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "J’attends patiemmеnt qu’ils reviennent",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Je cueille",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "text": "Des brides de temps",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Ma vie s’effile",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "J’ai le cœur cerf-volant",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Je suis une île",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Perdu dans l’océan",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "De l’oubli",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Je cueille",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "text": "Des instants fanés",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Des éclats de rires perdus dans mes pensées, mes souvenirs",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 39
+            },
+            {
+              "chord": "Am",
+              "position": 54
+            }
+          ]
+        },
+        {
+          "text": "Sont des pages arrachées à la vie",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "Em",
+              "position": 30
+            },
+            {
+              "chord": "D",
+              "position": 36
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768075119127,
+  "title": "I See The Light -Tangled",
+  "artist": "Disney",
+  "key": "No Capo",
+  "sections": [
+    {
+      "lines": [
+        {
+          "text": "All those days",
+          "chords": [{
+              "chord": "G",
+              "position": 0
+            }]
+        },
+        {
+          "text": "Watching from the windows",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "All those years",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Outside looking in",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "All that time",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Never even knowing",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Just how blind I've been",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Now I'm here",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Blinking in the starlight",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "Now I'm here",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Suddenly I see",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "Standing here",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "It's oh, so clear",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "text": "I'm where I'm meant to be",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "A",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "And at last, I see the light",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "And it's like the fog has lifted",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "And at last, I see the light",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "And it's like the sky is new",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And it's warm and real and bright",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "And the world has somehow shifted",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "All at once",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Everything looks different",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Now that I see you",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768075407600,
+  "title": "Let It Be",
+  "artist": "The Beatles",
+  "key": "1st",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "When I find myself in times of trouble, Mother Mary comes to me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "Am",
+              "position": 40
+            },
+            {
+              "chord": "F",
+              "position": 52
+            }
+          ]
+        },
+        {
+          "text": "Speaking words of wisdom, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "Dm",
+              "position": 40
+            },
+            {
+              "chord": "C",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "And in my hour of darkness, she is standing right in front of me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "Am",
+              "position": 37
+            },
+            {
+              "chord": "F",
+              "position": 53
+            }
+          ]
+        },
+        {
+          "text": "Speaking words of wisdom, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "Dm",
+              "position": 40
+            },
+            {
+              "chord": "C",
+              "position": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Let it be, let it be, let it be, let it be",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 29
+            },
+            {
+              "chord": "C",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Whisper words of wisdom, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "F",
+              "position": 32
+            },
+            {
+              "chord": "C",
+              "position": 35
+            },
+            {
+              "chord": "Dm",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "And when the broken hearted people, living in the world agree",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 36
+            },
+            {
+              "chord": "F",
+              "position": 50
+            }
+          ]
+        },
+        {
+          "text": "There will be an answer, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "Dm",
+              "position": 40
+            },
+            {
+              "chord": "C",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "For though they may be parted, there is still a chance that they will see",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 26
+            },
+            {
+              "chord": "Am",
+              "position": 40
+            },
+            {
+              "chord": "F",
+              "position": 62
+            }
+          ]
+        },
+        {
+          "text": "There will be an answer, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "Dm",
+              "position": 40
+            },
+            {
+              "chord": "C",
+              "position": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Let it be, let it be, let it be, let it be",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 29
+            },
+            {
+              "chord": "C",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "There will be an answer, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "F",
+              "position": 32
+            },
+            {
+              "chord": "C",
+              "position": 35
+            },
+            {
+              "chord": "Dm",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "Let it be, let it be, let it be, let it be",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 18
+            },
+            {
+              "chord": "F",
+              "position": 27
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Whisper words of wisdom, let it be",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "F",
+              "position": 32
+            },
+            {
+              "chord": "C",
+              "position": 35
+            },
+            {
+              "chord": "Dm",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 43
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768075650992,
+  "title": "Perfect",
+  "artist": "Ed Sheeran",
+  "key": "1st",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "I found a love for me",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "Em",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Darling, just dive right in, and follow my lead",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "Well, I found a girl beautiful and sweet",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "I never knew you were the someone waiting for me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 46
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Cause we were just kids when we fell in love",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Not knowing what it was, I will not give you up this ti-ime",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 36
+            },
+            {
+              "chord": "G",
+              "position": 53
+            },
+            {
+              "chord": "D",
+              "position": 56
+            }
+          ]
+        },
+        {
+          "text": "Darling just kiss me slow, your heart is all I own",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "And in your eyes you're holding mine",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Baby, I'm dancing in the dark, with you between my arms",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 25
+            },
+            {
+              "chord": "D",
+              "position": 36
+            },
+            {
+              "chord": "Em",
+              "position": 51
+            }
+          ]
+        },
+        {
+          "text": "Barefoot on the grass, listening to our favourite song",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "When you said you looked a mess, I whispered underneath my breath",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 27
+            },
+            {
+              "chord": "D",
+              "position": 45
+            },
+            {
+              "chord": "Em",
+              "position": 60
+            }
+          ]
+        },
+        {
+          "text": "But you heard it, darling you look perfect tonight",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 26
+            },
+            {
+              "chord": "D",
+              "position": 35
+            },
+            {
+              "chord": "G",
+              "position": 46
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768081600169,
+  "title": "Blowing In The Wind",
+  "artist": "Bob Dylan",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "How many roads must a man walk down,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "before you call him a man",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "How many seas must a white dove sail,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "before she sleeps in the sand",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Yes, and how many times must the cannonballs fly,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 33
+            },
+            {
+              "chord": "G",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "before they're forever banned",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 15
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "The answer my friend is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "The answer is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Yes, and how many years can a mountain exist,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 30
+            },
+            {
+              "chord": "G",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "before it is washed to the sea",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Yes, and how many years can some people exist,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 33
+            },
+            {
+              "chord": "G",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "before they're allowed to be free",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Yes, and how many times can a man turn his head,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 30
+            },
+            {
+              "chord": "G",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "and pretend that he just doesn't see",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "The answer my friend is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "The answer is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Yes, and how many times must a man look up,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 31
+            },
+            {
+              "chord": "G",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "before he can see the sky",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Yes, and how many ears must one man have,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "before he can hear people cry",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Yes, and how many deaths will it take till he knows,",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 33
+            },
+            {
+              "chord": "G",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "that too many people have died",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "The answer my friend is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "The answer is blowin' in the wind",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
-
 
 
 
