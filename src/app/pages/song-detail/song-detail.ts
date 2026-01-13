@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnDestroy } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { ActivatedRoute, RouterModule } from '@angular/router';
 import { Observable, switchMap } from 'rxjs';
@@ -13,7 +13,7 @@ import { Song } from '../../models/song.model';
   templateUrl: './song-detail.html',
   styleUrls: ['./song-detail.css']
 })
-export class SongDetailComponent {
+export class SongDetailComponent implements OnDestroy{
 
   song$: Observable<Song | undefined>;
 
@@ -39,6 +39,21 @@ export class SongDetailComponent {
 
 isStageMode = false;
 
+ngOnDestroy() {
+  this.stopAutoScroll();
+}
+
+stopAutoScroll() {
+  if (this.scrollInterval) {
+    clearInterval(this.scrollInterval);
+    this.scrollInterval = null;
+  }
+
+  this.scrollAccumulator = 0;
+  this.isAutoScroll = false;
+}
+
+
 
 
 toggleDarkMode() {
@@ -57,10 +72,7 @@ scrollSpeed = 0.2; // píxeles por tick
 
 toggleAutoScroll() {
   if (this.isAutoScroll) {
-    clearInterval(this.scrollInterval);
-    this.scrollInterval = null;
-    this.scrollAccumulator = 0;
-    this.isAutoScroll = false;
+    this.stopAutoScroll();
   } else {
     this.isAutoScroll = true;
 
@@ -75,6 +87,7 @@ toggleAutoScroll() {
     }, 30);
   }
 }
+
 
 
 increaseSpeed() {
