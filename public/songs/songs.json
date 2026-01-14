@@ -5493,7 +5493,7 @@
   "id": 1767899500926,
   "title": "110",
   "artist": "Luis Fercán",
-  "key": "4yt",
+  "key": "4th",
   "sections": [
     {
       "title": "Verse",
@@ -8516,6 +8516,2579 @@
             },
             {
               "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768410204736,
+  "title": "Wake Me Up",
+  "artist": "Avicii",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Feeling my way through the darkness",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 24
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Guided by a beating heart",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "I can't tell where the journey will end",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 24
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "But I know where it starts",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "They tell me I'm too young to understand,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 24
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "They say I'm caught up in a dream",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Well life will pass me by if I don't open up my eyes",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 24
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Well that's fine by me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "So wake me up when it's all over",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 28
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "When I'm wiser and I'm older",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 16
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "All this time I was finding myself, And I",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 31
+            },
+            {
+              "chord": "D",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "didn't know I was lost",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "So wake me up when it's all over",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 28
+            },
+            {
+              "chord": "D",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "When I'm wiser and I'm older",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 16
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "All this time I was finding myself, And I",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 31
+            },
+            {
+              "chord": "D",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "didn't know I was lost",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768410437591,
+  "title": "Son Mis Amigos",
+  "artist": "Amaral",
+  "key": "3rd",
+  "sections": [
+    {
+      "lines": [
+        {
+          "text": "Marta me llamo a las 6 hora española",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "solo para hablar solo se sentia sola por que",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Sebas se marchó de vuelta a Buenos Aires",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "el dinero se acabo ya no hay sitio para nadie",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "¿Dónde empieza y dónde acabará el destino",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 27
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "que nos une y que nos separara?",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Yo estoy sola en el hotel, estoy viendo amanecer",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Santiago de Chile se despierta entre montañas",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Aguirre toca la guitarra en la 304 un gato rebelde",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 1
+            },
+            {
+              "chord": "D",
+              "position": 26
+            },
+            {
+              "chord": "Em",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "que anda medio enamorao de la señorita rock ´n´ roll",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "Am",
+              "position": 25
+            },
+            {
+              "chord": "G",
+              "position": 48
+            }
+          ]
+        },
+        {
+          "text": "aunque no lo ha confesado eso lo sé yo",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Son mis amigos, en la calle pasabamos las horas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "D",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos por encima de todas las cosas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Carlos me contó que a su hermana Isabel",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "la echaron del trabajo sin saber porqué",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "no le dieron ni las gracias porque estaba sin contrato",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "aquella misma tarde fuimos a celebrarlo",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "ya no tendrás que soportar al imbécil de tu jefe",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "ni un minuto más",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "text": "Son mis amigos, en la calle pasabamos las horas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "D",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos por encima de todas las cosas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "Alicia fue a vivir a Barcelona",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "y hoy ha venido a mi memoria",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 2
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Claudia tuvo un hijo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "text": "y de Guille y los demás ya no sé nada",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Son mis amigos, en la calle pasabamos las horas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "D",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos por encima de todas las cosas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Son mis amigos, en la calle pasabamos las horas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 31
+            },
+            {
+              "chord": "D",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos por encima de todas las cosas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "son mis amigos",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768410625885,
+  "title": "Moriría Por Vos",
+  "artist": "Amaral",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Como Nicolas Cage en Leaving las Vegas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Veo caer la nieve en la hierba",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Un Robinson en una isla desierta",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 3
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 26
+            },
+            {
+              "chord": "C",
+              "position": 29
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            },
+            {
+              "chord": "D",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "Como Nicolas Cage en Leaving las Vegas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Soy el invierno contra tu primavera",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Un Dorian Gray sin pasado ni patria ni bandera",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            },
+            {
+              "chord": "D",
+              "position": 32
+            },
+            {
+              "chord": "G",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 42
+            },
+            {
+              "chord": "Em",
+              "position": 45
+            },
+            {
+              "chord": "D",
+              "position": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Será tu voz, será el licor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Serán las luces de esta habitación",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Será el poder de una canción",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Pero esta noche moriría por vos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "C",
+              "position": 32
+            },
+            {
+              "chord": "Em",
+              "position": 35
+            },
+            {
+              "chord": "D",
+              "position": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Como Nicolas Cage en Leaving las Vegas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "No tengo planes más allá de esta cena",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Es un misterio hacia dÃ³nde la noche nos lleva",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            },
+            {
+              "chord": "D",
+              "position": 32
+            },
+            {
+              "chord": "G",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 42
+            },
+            {
+              "chord": "Em",
+              "position": 45
+            },
+            {
+              "chord": "D",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "Como Nicolas Cage en Leaving las Vegas",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Vamos, mi niño, a perder la cabeza",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "Em",
+              "position": 16
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Como si fuera nuestro último dí­a en la Tierra",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            },
+            {
+              "chord": "D",
+              "position": 32
+            },
+            {
+              "chord": "G",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 42
+            },
+            {
+              "chord": "Em",
+              "position": 45
+            },
+            {
+              "chord": "D",
+              "position": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Será tu voz, será el licor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Serán las luces de esta habitación",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Será que suena Marquee Moon",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Pero esta noche morirí­a por vos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "Será el champagne, será el color de tus ojos verdes",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 47
+            }
+          ]
+        },
+        {
+          "text": "De ciencia ficción",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "La ultima cena para los dos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Pero esta noche     morirí­a por vos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Será tu voz, será el licor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Serán las luces de esta habitación",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Será el poder de una canción",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Pero esta noche moriría por vos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Será el champagne, será el color de tus ojos verdes",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 47
+            }
+          ]
+        },
+        {
+          "text": "De ciencia ficción",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "La ultima cena para los dos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Pero esta noche     morirí­a por vos",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768411076139,
+  "title": "Can´t Help Falling In Love With You",
+  "artist": "Elvis",
+  "key": "1st",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Wise men say, only fools rush in",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "Am",
+              "position": 9
+            },
+            {
+              "chord": "F",
+              "position": 19
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "G",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "But I can't help falling in love with you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Shall I  stay, would it be a sin?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "Am",
+              "position": 9
+            },
+            {
+              "chord": "F",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "If I can't help falling in love with you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 3
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "Am",
+              "position": 11
+            },
+            {
+              "chord": "F",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "C",
+              "position": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Like a river flows surely to the sea",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "B7",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 19
+            },
+            {
+              "chord": "B7",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Darling so it goes",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "B7",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Some things  are  meant to be",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "A7",
+              "position": 13
+            },
+            {
+              "chord": "Dm",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Take my hand, take my whole life too",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "F",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "For I can't help falling in love with you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Like a river flows surely to the sea",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "B7",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 19
+            },
+            {
+              "chord": "B7",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Darling so it goes",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "B7",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Some things  are  meant to be",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "A7",
+              "position": 13
+            },
+            {
+              "chord": "Dm",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "Take my hand, take my whole life too",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "F",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "For I can't help falling in love with you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 38
+            },
+            {
+              "chord": "C",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "For I can't help falling in love with you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 33
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768411524746,
+  "title": "The Winner Takes It All (With Tabs)",
+  "artist": "ABBA",
+  "key": "4th",
+  "sections": [
+    {
+  "title": "Riff #1",
+  "type": "tabs",
+    "tabs": [
+    "_______________________________________",
+    "Chord|D                     F#7        |",
+    "    e|----3-----2-----|0---------------|",
+    "    B|----3-----3-----|3-----3---------|",
+    "    G|2---2-----2-----|2-----3---------|",
+    "    D|0---------------|------4---------|",
+    "    A|----------------|----------------|",
+    "    E|----------------|----------------|",
+    "_______________________________________",
+    "Chord|Bm                    B7/D#      |",
+    "    e|----0-----------|----------------|",
+    "    B|----------3-----|2-----0---------|",
+    "    G|4---4-----4-----|4-----2---------|",
+    "    D|4---------------|4-----1---------|",
+    "    A|2---------------|2---------------|",
+    "    E|----------------|----------------|",
+    "_______________________________________",
+    "Chord|Em                               |",
+    "    e|----5-----3-----|2-----0---------|",
+    "    B|----0-----0-----|0-----0---------|",
+    "    G|0---0-----0-----|0-----0---------|",
+    "    D|----------------|----------------|",
+    "    A|2---------------|----------------|",
+    "    E|0---------------|----------------|",
+    "_______________________________________",
+    "Chord|A                                |",
+    "    e|----------------|----------------|",
+    "    B|----3-----2-----|0---------------|",
+    "    G|2---2-----2-----|2-----2---------|",
+    "    D|2---------------|2-----2---------|",
+    "    A|0---------------|0-----0---------|",
+    "    E|----------------|----------------|",
+    "_______________________________________"
+    ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "I don't wanna talk",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "About things we've gone through",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Though it's hurting me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Now it's history",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "I've played all my cards",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "And that's what you've done too",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Nothing more to say",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "No more ace to play",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "The winner takes it all",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "The loser standing small",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Beside the victory",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "That's her destiny",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "I was in your arms",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Thinking I belonged there",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I figured it made sense",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Building me a fence",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Building me a home",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Thinking I'd be strong there",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "But I was a fool",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Playing by the rules",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "The gods may throw a dice",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Their minds as cold as ice",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "And someone way down here",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Loses someone dear",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "The winner takes it all",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "The loser has to fall",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "It's simple and it's plain",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Why should I complain?",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "But tell me does she kiss",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "Like I used to kiss you?",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Does it feel the same",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "When she calls your name?",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Somewhere deep inside",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "You must know I miss you",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "But what can I say",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Rules must be obeyed",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge 2",
+      "lines": [
+        {
+          "text": "The judges will decide",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "The likes of me abide",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "Spectators of the show",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Always staying low",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge 3",
+      "lines": [
+        {
+          "text": "The game is on again",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "A lover or a friend",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "A big thing or a small",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "The winner takes it all",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "I don't wanna talk",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "If it makes you feel sad",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "And I understand",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "You've come to shake my hand",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "I apologize",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "If it makes you feel bad",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "Seeing me so tense",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "No self-confidence, but you see …Z",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "The winner takes it all",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 20
+            },
+            {
+              "chord": "Bm",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "The winner takes it all ...",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 20
+            },
+            {
+              "chord": "A",
               "position": 29
             }
           ]
