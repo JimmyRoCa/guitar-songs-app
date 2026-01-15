@@ -11096,6 +11096,1789 @@
       ]
     }
   ]
+},
+{
+  "id": 1768498658504,
+  "title": "The Scientist",
+  "artist": "Coldplay",
+  "key": "No Capo",
+  "sections": [
+    {
+  "title": "Riff #1",
+  "type": "tabs",
+    "tabs": [
+    "_____________Chords Refresh____________",
+    "Chord|       Am7      |     Csus2      |",
+    "    e|--------0-------|----------------|",
+    "    B|--------1-------|-------1--------|",
+    "    G|--------0-------|-------0--------|",
+    "    D|--------2-------|-------0--------|",
+    "    A|--------0-------|-------2--------|",
+    "    E|----------------|----------------|",
+    "________________________________________"
+    ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Come up to meet you, tell you I'm sorry",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "You don't know how lovely you are",
+          "chords": [
+            {
+              "chord": "Csus2",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "I had to find you, tell you I need you,",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Tell you I’ll set you apart",
+          "chords": [
+            {
+              "chord": "Csus2",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Tell me your secrets, and’ask me your questions",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 18
+            },
+            {
+              "chord": "C",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "Oh, let’s go back to the start",
+          "chords": [
+            {
+              "chord": "Csus2",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Running in circles, coming up tails,",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 16
+            },
+            {
+              "chord": "C",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Heads on a science apart",
+          "chords": [
+            {
+              "chord": "Csus2",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Nobody said it was easy",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "It's such a shame for us to part",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Csus2",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Nobody said it was easy",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "No one ever said it would be this hard.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 29
+            },
+            {
+              "chord": "G",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Oh take me back to the start...",
+          "chords": [
+            {
+              "chord": "",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768499303781,
+  "title": "Si Tus Piernas",
+  "artist": "Dani Fernández",
+  "key": "No Capo",
+  "sections": [
+    {
+      "title": "Verso 1",
+      "lines": [
+        {
+          "text": "Si tus piernas me incendiaban",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "a la vez que tus abrazos",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Si tus ojos me alumbraban",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Tus costillas acopladas a mi cuerpo ya rendido",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Sin pensar que lo esperabas",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "No quiero volver a todo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Ni saber lo que he cambiado",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Solo sé que si te pierdo",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "en mi vida no he ganado",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Repasar todos tus huesos",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "que en mi cabeza has enquistado",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-estribillo",
+      "lines": [
+        {
+          "text": "Tú que has alterado cada pensamiento",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Has domesticado a los lobos de mi invierno",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "Mira lo que has hecho",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "Mira lo que has hecho",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Estribillo",
+      "lines": [
+        {
+          "text": "Abatido entre tu piel",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Quién mе guía en este vuеlo",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "He apostado todo al negro de tus ojos y tu pelo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 21
+            },
+            {
+              "chord": "D",
+              "position": 34
+            },
+            {
+              "chord": "Em",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "Y no habrá nada que hacer",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Me reviento contra el suelo",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Si algún día tus miradas ya se han convertido en hielo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 36
+            },
+            {
+              "chord": "Em",
+              "position": 50
+            }
+          ]
+        },
+        {
+          "text": "Ya se han convertido en hielo",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768499484323,
+  "title": "Lava",
+  "artist": "Disney",
+  "key": "1st",
+  "sections": [
+    {
+      "title": "VERSE 1",
+      "lines": [
+        {
+          "text": "A long long time ago there was a volcano",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Living all alone in the middle of the sea",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "G",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "He sat high above his bay watching all the couples play",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "And wishing that he had someone too",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "G",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "And from his lava came this song of hope that he sang",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Out loud everyday for years and years",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CHORUS",
+      "lines": [
+        {
+          "text": "I have a dream I hope will come true",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "That you're here with me and I'm here with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "I wish that the earth sea and the sky up above-a",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Will send me someone to lava",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VERSE 3",
+      "lines": [
+        {
+          "text": "Years of singing all alone turned his lava into stone",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Until he was on the brink of extinction",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "But little did he know that living in the sea below",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Another volcano was listening to his song",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VERSE 4",
+      "lines": [
+        {
+          "text": "Everyday she heard his tune    her lava grew and grew",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Because she believed his song was meant for her",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 25
+            },
+            {
+              "chord": "G",
+              "position": 44
+            }
+          ]
+        },
+        {
+          "text": "Now she was so ready to meet him above the sea",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "As he sang his song of hope for the last time",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CHORUS",
+      "lines": [
+        {
+          "text": "I have a dream I hope will come true",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "That you're here with me and I'm here with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "I wish that the earth sea and the sky up above-a",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Will send me someone to lava",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VERSE 5",
+      "lines": [
+        {
+          "text": "Rising from the sea below stood a lovely volcano",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Looking all around but she could not see him",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "He tried to sing to let her know that she was not there alone",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "But with no lava his song was all gone",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "C",
+              "position": 21
+            },
+            {
+              "chord": "G",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "He filled the sea with his tears and watched his dreams disappear",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "As she remembered what his song meant to her",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "C",
+              "position": 27
+            },
+            {
+              "chord": "G",
+              "position": 41
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CHORUS",
+      "lines": [
+        {
+          "text": "I have a dream I hope will come true",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "That you're here with me and I'm here with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "I wish that the earth sea and the sky up above-a",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "Will send me someone to lava",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "VERSE 6",
+      "lines": [
+        {
+          "text": "Oh they were so happy to finally meet above the sea",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "All together now their lava grew and grew",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "No longer are they all alone with aloha as their new home",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "And when you visit them this is what they sing",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            },
+            {
+              "chord": "C",
+              "position": 24
+            },
+            {
+              "chord": "G",
+              "position": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CHORUS",
+      "lines": [
+        {
+          "text": "I have a dream I hope will come true",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "That you'll grow old with me and I'll grow old with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "We thank the earth sea and the sky we thank too",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "I lava you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "I lava you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "I lava you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768499683050,
+  "title": "Go the distance - Hercules",
+  "artist": "Disney",
+  "key": "",
+  "sections": [
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "I have often dreamed, of a far off place",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 16
+            },
+            {
+              "chord": "F",
+              "position": 28
+            },
+            {
+              "chord": "G",
+              "position": 32
+            },
+            {
+              "chord": "C",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Where a great warm welcome will be waiting for me",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "E",
+              "position": 14
+            },
+            {
+              "chord": "Am",
+              "position": 20
+            },
+            {
+              "chord": "F",
+              "position": 34
+            },
+            {
+              "chord": "G",
+              "position": 43
+            }
+          ]
+        },
+        {
+          "text": "Where the crowds will cheer, when they see my face",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "C",
+              "position": 22
+            },
+            {
+              "chord": "F",
+              "position": 39
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "And a voice keeps saying this is where I'm meant to be",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "E",
+              "position": 13
+            },
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "G",
+              "position": 50
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "First Chorus",
+      "lines": [
+        {
+          "text": "I will find my way, I can go the distance",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "I'll be there someday, if I can be strong",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 23
+            },
+            {
+              "chord": "G",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "I know ev'ry mile, will be worth my while",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "Dm",
+              "position": 14
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            },
+            {
+              "chord": "Dm",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "I would go most anywhere to feel like I belong",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "C",
+              "position": 16
+            },
+            {
+              "chord": "F",
+              "position": 29
+            },
+            {
+              "chord": "G",
+              "position": 38
+            },
+            {
+              "chord": "C",
+              "position": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Second Chorus",
+      "lines": [
+        {
+          "text": "I am on my way, I will go the distance",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "Am",
+              "position": 18
+            },
+            {
+              "chord": "G",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "I don't care how far, somehow I'll be strong",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "Am",
+              "position": 22
+            },
+            {
+              "chord": "G",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "And a thousand years, would be worth the wait",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "Dm",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 31
+            },
+            {
+              "chord": "Dm",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "It might take a lifetime, but somehow I'll see it through",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 17
+            },
+            {
+              "chord": "F",
+              "position": 33
+            },
+            {
+              "chord": "G",
+              "position": 38
+            },
+            {
+              "chord": "C",
+              "position": 45
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1768500193745,
+  "title": "Con Valor - Mulán",
+  "artist": "Disney",
+  "key": "2nd",
+  "sections": [
+    {
+      "lines": [
+        {
+          "text": "Llega el enemigo   vamos a luchar",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "Am",
+              "position": 25
+            },
+            {
+              "chord": "D",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Me enviaron nenas  tal vez a jugar",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            },
+            {
+              "chord": "D",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "Hoy dais lastima  vais a aprender",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Pasion deber valor virtud",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Pues yo ya lo logre ahora tu",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "La quietud del bosque   y el ardor del sol",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Am",
+              "position": 31
+            },
+            {
+              "chord": "D",
+              "position": 39
+            }
+          ]
+        },
+        {
+          "text": "Cuando los consigues tuyo es el control",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "Am",
+              "position": 29
+            },
+            {
+              "chord": "D",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Y aunque eres hoy patetico",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Todo un hombre hare de ti",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Em",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Y seras el mejor para mi",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "No puedo ya ni respirar  despedidme de mi gente",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "B7",
+              "position": 25
+            },
+            {
+              "chord": "Em",
+              "position": 42
+            }
+          ]
+        },
+        {
+          "text": "Y por que falte a la   escuela a entrenar",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 25
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Ya la veo renunciar  que no vaya a descubrirme",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "B7",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Como desearia hoy saber nadar    con valor",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Sere mas raudo que un rio bravo con valor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 9
+            },
+            {
+              "chord": "B7",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Tendre la fuerza de un gran tifon con valor",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "B7",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Con la energia del fuego ardiente",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "B7",
+              "position": 19
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "La luna sabra guiar el corazon",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
 
 
