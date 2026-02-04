@@ -12879,6 +12879,1015 @@
       ]
     }
   ]
+},
+{
+  "id": 1770236105261,
+  "title": "Solo Tienes Que Avisar",
+  "artist": "Dani Fernández",
+  "key": "5th - Very High",
+  "sections": [
+    {"title": "Intro",
+      "lines": [
+        {
+          "text": "",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 7
+            },
+            {
+              "chord": "Asus2",
+              "position": 10
+            },
+            {
+              "chord": "Am",
+              "position": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse",
+      "lines": [
+        {
+          "text": "Ahora sí que siento vértigo",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Y no te tengo delante",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 16
+            },
+            {
+              "chord": "Am",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "¿Cómo algo tan pequeño puede venir a salvarme",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 17
+            },
+            {
+              "chord": "Asus2",
+              "position": 43
+            },
+            {
+              "chord": "Am",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "Pídeme",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "Que voy a estar cediendo",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "Cmaj7",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "A todo lo que te haga disfrutar",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Vas a ser",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Mucho más",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Que me muero por contarte",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Cosas que no he dicho a nadie",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 24
+            },
+            {
+              "chord": "Am",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Que harás que todo estalle",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y cuando algo se desarme",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Solo tienes que avisar",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 19
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Que me muero por cantarte",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Y perderme en los detalles",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Que no quiero ser cobarde",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y si hay algo que no encaje",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Solo tienes que avisar",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Lo que viene es tan inmenso",
+          "chords": []
+        },
+        {
+          "text": "Que ojalá que no te falle",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Esas nubes no se mueven",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "Pero haremos que nos bailen",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 21
+            },
+            {
+              "chord": "Am",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Quiero verte observar",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Con la mirada llena de curiosidad",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 10
+            },
+            {
+              "chord": "Am",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "Vas a ser",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "text": "Mucho más",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "text": "Que me muero por contarte",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Cosas que no he dicho a nadie",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 24
+            },
+            {
+              "chord": "Am",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Que harás que todo estalle",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y cuando algo se desarme",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Solo tienes que avisar",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 19
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Que me muero por cantarte",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Y perderme en los detalles",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Que no quiero ser cobarde",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y si hay algo que no encaje",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Solo tienes que avisar",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Que me muero por cantarte",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Y perderme en los detalles",
+          "chords": [
+            {
+              "chord": "Asus2",
+              "position": 20
+            },
+            {
+              "chord": "Am",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "Que no quiero ser cobarde",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Y cuando se desarme",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Solo tienes que avisar",
+          "chords": [
+            {
+              "chord": "Cmaj7",
+              "position": 20
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1770242830917,
+  "title": "Until I Found You",
+  "artist": "Stephen Sanchez",
+  "key": "2nd",
+  "sections": [
+    {
+  "title": "Riff #1",
+  "type": "tabs",
+    "tabs": [
+    "____________________________________",
+    "Chord|C            Em             |",
+    "    e|0--0--------|0--3⏜0---------|",
+    "    B|1-----1-----|0------0-----0-|",
+    "    G|0--------0--|0---------0----|",
+    "    D|2-----------|2--------------|",
+    "    A|3-----------|2--------------|",
+    "    E|------------|0--------------|",
+    "__________________________________________",
+    "Chord|F                                   |",
+    "    e|1--1--------|1-1-1-1-1-1-3-3-3-1-1-1|",
+    "    B|1----1------|1-1-1-1-1-1-1-1-1-1-1-1|",
+    "    G|2-------2---|1-1-1-1-1-1-1-1-1-1-1-1|",
+    "    D|3-----------|3-3-3-3-3-3-3-3-3-3-3-3|",
+    "    A|3-----------|-----------------------|",
+    "    E|1-----------|-----------------------|",
+    "__________________________________________"
+    ]
+  },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Georgia, wrap me up in all your...",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "F",
+              "position": 19
+            },
+            {
+              "chord": "Fm",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "I want ya, in my arms",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 11
+            },
+            {
+              "chord": "F",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "Oh, let me hold ya",
+          "chords": [
+            {
+              "chord": "Fm",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "I'll never let you go again,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            },
+            {
+              "chord": "Fm",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "like I did",
+          "chords": []
+        },
+        {
+          "text": "Oh, I used to say",
+          "chords": [
+            {
+              "chord": "G7",
+              "position": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "\"I would never fall in love again until",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "I found her\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "I said, \"I would never fall unless it's",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "you I fall into\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "C7",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I was lost within the darkness, but",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "then I found her",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I found you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "Fm",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Georgia, pulled me in, I asked to...",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "F",
+              "position": 21
+            },
+            {
+              "chord": "Fm",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "Love her, once again",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "F",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "You fell, I caught ya",
+          "chords": [
+            {
+              "chord": "Fm",
+              "position": 4
+            },
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "I'll never let you go again,",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "F",
+              "position": 14
+            },
+            {
+              "chord": "Fm",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "like I did",
+          "chords": []
+        },
+        {
+          "text": "Oh, I used to say",
+          "chords": [
+            {
+              "chord": "G7",
+              "position": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "\"I would never fall in love again until",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "I found her\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "I said, \"I would never fall unless it's",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "you I fall into\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "C7",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I was lost within the darkness, but",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "then I found her",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I found you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "Fm",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "\"I would never fall in love again until",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "I found her\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "I said, \"I would never fall unless it's",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "you I fall into\"",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "C7",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I was lost within the darkness, but",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "then I found her",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            },
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "I found you",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 5
+            },
+            {
+              "chord": "Fm",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
 
 
