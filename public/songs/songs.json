@@ -13888,6 +13888,1899 @@
       ]
     }
   ]
+},
+{
+  "id": 1770375599073,
+  "title": "End Of Beginning",
+  "artist": "Djo",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Just one more tear to cry",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "One teardrop from my eye",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "You better save it for",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "The middle of the night",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "When things aren't black-and-white",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Enter, Troubadour:'Remember 24?'",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Dm",
+              "position": 19
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And when I'm back in Chicago, I feel it",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 25
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Another version of me, I was in it",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "I wave goodbye to the end of beginning",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "This song has started now",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And you're just finding out",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Now isn't that a laugh?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "A major sacrifice, but clueless at the time",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Enter, Caroline: \"Just trust me, you'll be fine\"",
+          "chords": [
+            {
+              "chord": "Dm",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And when I'm back in Chicago, I feel it",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 25
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Another version of me, I was in it",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "I wave goodbye to the end of beginning",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "(Goodbye, goodbye)",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "(Goodbye, goodbye)",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "You take the man out of the city, not the city out the man",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "You take the man out of the city, not the city out the man",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "You take the man out of the city, not the city out the man",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Am",
+              "position": 45
+            }
+          ]
+        },
+        {
+          "text": "You take the man out of the",
+          "chords": [{
+              "chord": "N.C",
+              "position": 0
+            }]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "And when I'm back in Chicago, I feel it",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 18
+            },
+            {
+              "chord": "G",
+              "position": 29
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Another version of me, I was in    it",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 19
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "I wave goodbye to the end of beginning",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 22
+            },
+            {
+              "chord": "Fmaj7",
+              "position": 31
+            }
+          ]
+        },
+        {
+          "text": "(Goodbye, goodbye)",
+          "chords": [
+            {
+              "chord": "Fmaj7",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1774204546975,
+  "title": "Take Me Home Country Roads",
+  "artist": "John Denver",
+  "key": "3rd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Almost Heaven, West Virginia, Blue Ridge Mountains, Shenandoah River.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 30
+            },
+            {
+              "chord": "C",
+              "position": 54
+            },
+            {
+              "chord": "G",
+              "position": 65
+            }
+          ]
+        },
+        {
+          "text": "Life is old there, older than the trees, younger than the mountains, growin'",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            },
+            {
+              "chord": "D",
+              "position": 43
+            },
+            {
+              "chord": "C",
+              "position": 71
+            }
+          ]
+        },
+        {
+          "text": "like a breeze.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Country Roads, take me home, to the place I belong",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "West Virginia, mountain mama, take me home, country roads.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "All my memories  gather 'round her, miner's lady, stranger to blue water.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 16
+            },
+            {
+              "chord": "D",
+              "position": 35
+            },
+            {
+              "chord": "C",
+              "position": 51
+            },
+            {
+              "chord": "G",
+              "position": 68
+            }
+          ]
+        },
+        {
+          "text": "Dark and dusty, painted on the sky, misty taste of moonshine, teardrop in my eye.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 18
+            },
+            {
+              "chord": "D",
+              "position": 38
+            },
+            {
+              "chord": "C",
+              "position": 64
+            },
+            {
+              "chord": "G",
+              "position": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Country Roads, take me home, to the place I belong",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "West Virginia, mountain mama, take me home, country roads.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "I hear her voice, in the mornin' hour she calls me.",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "The radio reminds me of my home far away.",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 4
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "And drivin' down the road I get a feelin' that I should have been home",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 4
+            },
+            {
+              "chord": "F",
+              "position": 21
+            },
+            {
+              "chord": "C",
+              "position": 34
+            },
+            {
+              "chord": "G",
+              "position": 49
+            }
+          ]
+        },
+        {
+          "text": "yesterday, yesterday.",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Country Roads, take me home, to the place I belong",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "West Virginia, mountain mama, take me home, country roads.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 52
+            }
+          ]
+        },
+        {
+          "text": "Country Roads, take me home, to the place I belong",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            },
+            {
+              "chord": "C",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "West Virginia, mountain mama, take me home, country roads.",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 38
+            },
+            {
+              "chord": "G",
+              "position": 52
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "Take me home, (down) country roads.",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "Take me home, (down) country roads.",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1774204719980,
+  "title": "Vino Y Cemento",
+  "artist": "Taburete",
+  "key": "2nd",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Tengo una mala noticia para toda la",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "peña que pasa revista",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "text": "Que fingen vivir una vida basada en",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "otra vida distinta",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Tengo los ojos cerrados en un",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "abanico con los pies descalzos",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "text": "Valiéndose de sí, cantó el borracho",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 9
+            },
+            {
+              "chord": "F",
+              "position": 29
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "Salto, no miro al vacío",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "text": "Allí se renuevan con más de lo mismo",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Y se vuelven locos por coger el hilo",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "de lo ya vivido",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Tengo los ojos cerrados en un",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "text": "abanico con los pies descalzos",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "text": "Valiéndose de sí, cantó el borracho",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 7
+            },
+            {
+              "chord": "F",
+              "position": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 11
+            },
+            {
+              "chord": "F",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "Que te tengo que decir que me cuesta comprender",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "Que de todas las mañanas yo me quedo las de miel",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Que si tengo que volver a elegir",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "renuncio a parte de mí por ti",
+          "chords": [
+            {
+              "chord": "F",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 15
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "Mitad caballero, mitad militante",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "text": "La rumba la tengo metida en la sangre",
+          "chords": [
+            {
+              "chord": "E",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "Y baila flamenco, huele a vino y cemento",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 12
+            },
+            {
+              "chord": "F",
+              "position": 36
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1774205203901,
+  "title": "Will Ye Go Lassie Go",
+  "artist": "The Corries",
+  "key": "5th",
+  "sections": [
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Oh the summer time has come",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "Cadd9",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "And the trees are sweetly bloomin'",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "The wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em/G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Grows around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "Cadd9",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "And we'll all go together",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I will build my love a bower",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "Cadd9",
+              "position": 15
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "By yon cool crystal fountain",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "And round it I will pile",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em/G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "All the wild flowers o' the mountain",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "Cadd9",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "And we'll all go together",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "I will range through the wilds",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And the deep glen sae dreamy",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "And return wi' their spoils",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 4
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em/G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To the bower o' my dearie",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "Cadd9",
+              "position": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "And we'll all go together",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 4",
+      "lines": [
+        {
+          "text": "If my true love ,she won't come",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "Cadd9",
+              "position": 16
+            },
+            {
+              "chord": "G",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "Then I'll surely find another",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 3
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 5
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "And we'll all go together",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "And we'll all go together",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "To pull wild mountain thyme",
+          "chords": [
+            {
+              "chord": "Cadd9",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em/G",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "All around the bloomin' heather",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 6
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "Cadd9",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Will ye go, Lassie, go?",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "Cadd9",
+              "position": 13
+            },
+            {
+              "chord": "G",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
 
 
