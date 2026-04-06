@@ -15781,6 +15781,3025 @@
       ]
     }
   ]
+},
+{
+  "id": 1775486655390,
+  "title": "Say You Wont Let Go (With Tabs)",
+  "artist": "James Arthur",
+  "key": "3rd",
+  "sections": [
+    {
+  "title": "Main Riff - You can repeat this all over the song",
+  "type": "tabs",
+  "tabs": [
+    "____________________________________",
+    "Chord|G                           |",
+    "    e|----------------------------|",
+    "    B|---3--0---------------------|",
+    "    G|---0--0------0--------------|",
+    "    D|----------------------------|",
+    "    A|----------------------------|",
+    "    E|-3----3----3----3-----------|",
+    "____________________________________",
+    "Chord|D                           |",
+    "    e|----------------------------|",
+    "    B|---3--0---------------------|",
+    "    G|---2--2-------2-------------|",
+    "    D|------0----0-----0----------|",
+    "    A|----------------------------|",
+    "    E|-2--------------------------|",
+    "____________________________________",
+    "Chord|Em                          |",
+    "    e|----------------------------|",
+    "    B|---3--0---------------------|",
+    "    G|---0--0------0--------------|",
+    "    D|----------------------------|",
+    "    A|----------------------------|",
+    "    E|-0----0----0----0-----------|",
+    "____________________________________",
+    "Chord|C                           |",
+    "    e|----------------------------|",
+    "    B|---1--1-------1p0-----------|",
+    "    G|---0--0---------------------|",
+    "    D|----------------------------|",
+    "    A|-3----3------3--------------|",
+    "    E|----------------------------|",
+    "____________________________________"
+  ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "I met you in the dark",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "You lit me up",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "You made me feel as though",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I was enough",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "We danced the night away",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "We drank too much",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I held your hair back when",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "You were throwing up",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "Then you smiled over your shoulder",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "For a minute, I was stone cold sober",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I pulled you closer to my chest",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "And you asked me to stay over",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I said, I already told ya",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I think that you should get some rest",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "I knew I loved you then",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "But you'd never know",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Cause I played it cool when I was",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Scared of letting go",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I know I needed you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "But I never showed",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "But I wanna stay with you",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Until we're grey and old",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I wake you up with some",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Breakfast in bed",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I'll bring you coffee with",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "a kiss on your head",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And I'll take the kids to school",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Wave them goodbye",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And I'll thank my lucky stars",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "for that night",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Chorus",
+      "lines": [
+        {
+          "text": "When you looked over your shoulder",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "For a minute, I forget that I'm older",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I wanna dance with you right now, oh",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "And you look as beautiful as ever",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And I swear that everyday you'll get better",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "You make me feel this way somehow",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "C",
+              "position": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "I'm so in love with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And I hope you know",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Darling your love is more than",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Worth its weight in gold",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "We've come so far my dear",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Look how we've grown",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "And I wanna stay with you",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Until we're grey and old",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "I wanna live with you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Even when we're ghosts",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Cause you were always there for me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "When I needed you most",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "I'm gonna love you till",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "My lungs give out",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "I promise till death we part",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Like in our vows",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "So I wrote this song for you",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Now everybody knows",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "That it's just you and me",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "text": "Until we're grey and old",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 5
+            },
+            {
+              "chord": "C",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Just say you won't let go",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "Oh, just say you won't let go",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 9
+            },
+            {
+              "chord": "C",
+              "position": 29
+            }
+          ]
+        },
+        {
+          "text": "(end on single strum)",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1775487943437,
+  "title": "Shallow (With Tabs)",
+  "artist": "Lady Gaga & Bradley Cooper",
+  "key": "3rd",
+  "sections": [
+    {
+  "title": "Main tabs",
+  "type": "tabs",
+  "tabs": [
+    "____________________________________",
+    "Chord|Em7       D/F#    G         |",
+    "    e|----------------------------|",
+    "    B|-----3-------3----3---------|",
+    "    G|-------0-----2----0---------|",
+    "    D|---2------------------------|",
+    "    A|----------------------------|",
+    "    E|-0--------2-------3---------|",
+    "____________________________________",
+    "Chord|C                           |",
+    "    e|-----------0----------------|",
+    "    B|-----1--------1-------------|",
+    "    G|-------0---------0----------|",
+    "    D|---2-----2------------------|",
+    "    A|-3--------------------------|",
+    "    E|----------------------------|",
+    "____________________________________",
+    "Chord|G        D                  |",
+    "    e|-----------0h2p0------------|",
+    "    B|---3-----3------3-----------|",
+    "    G|---0-----2--------2---------|",
+    "    D|---------0------------------|",
+    "    A|----------------------------|",
+    "    E|-3--------------------------|",
+    "____________________________________"
+  ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "Tell me something girl...",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 0
+            },
+            {
+              "chord": "D/F",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Are you happy in this modern world?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 25
+            },
+            {
+              "chord": "D",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "Or do you need more?",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 0
+            },
+            {
+              "chord": "D/F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Is there something else you’re searching for?",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 34
+            },
+            {
+              "chord": "D",
+              "position": 44
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I’m fall-in'",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 3
+            },
+            {
+              "chord": "D/F",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "In all the good times I find myself longin'    for  change",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 27
+            },
+            {
+              "chord": "D",
+              "position": 34
+            },
+            {
+              "chord": "Em7",
+              "position": 46
+            },
+            {
+              "chord": "D/F",
+              "position": 50
+            },
+            {
+              "chord": "G",
+              "position": 55
+            }
+          ]
+        },
+        {
+          "text": "And in the bad times I fear myself",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 26
+            },
+            {
+              "chord": "D",
+              "position": 33
+            },
+            {
+              "chord": "Em7",
+              "position": 39
+            },
+            {
+              "chord": "D/F",
+              "position": 44
+            },
+            {
+              "chord": "G",
+              "position": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "Tell me something boy...",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 0
+            },
+            {
+              "chord": "D/F",
+              "position": 11
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Aren’t you tired tryin' to fill that void",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 30
+            },
+            {
+              "chord": "D",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "Or do you need more?",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 0
+            },
+            {
+              "chord": "D/F",
+              "position": 9
+            },
+            {
+              "chord": "G",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "Ain’t it hard keeping it so hardcore",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 28
+            },
+            {
+              "chord": "D",
+              "position": 35
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 4",
+      "lines": [
+        {
+          "text": "I’m fall-ing",
+          "chords": [
+            {
+              "chord": "Em7",
+              "position": 3
+            },
+            {
+              "chord": "D/F",
+              "position": 7
+            },
+            {
+              "chord": "G",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "text": "In all the good times I find myself longin'    for  change",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 27
+            },
+            {
+              "chord": "D",
+              "position": 34
+            },
+            {
+              "chord": "Em7",
+              "position": 46
+            },
+            {
+              "chord": "D/F",
+              "position": 50
+            },
+            {
+              "chord": "G",
+              "position": 55
+            }
+          ]
+        },
+        {
+          "text": "And in the bad times I fear myself",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 26
+            },
+            {
+              "chord": "D",
+              "position": 33
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "I’m off the deep end, watch as I dive in",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "I’ll never meet the ground",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Crash through the surface, where they can’t hurt us",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "We’re far from the shallow now",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post–Chorus",
+      "lines": [
+        {
+          "text": "In the sha-ha-sha-ha-low",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "In the sha-ha-sha-la-la-la-low",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "In the sha-ha-sha-ha-ha-low",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "text": "We’re far from the shallow now",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "Wooaaaah",
+          "chords": [
+            {
+              "chord": "Bm",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "text": "Woaaaaaaaaaaaaaaaaaaaaaaahhhhh",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 0
+            },
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "Bm",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 18
+            },
+            {
+              "chord": "A",
+              "position": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "I’m off the deep end, watch as I dive in",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 22
+            }
+          ]
+        },
+        {
+          "text": "I’ll never meet the ground",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "Em",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Crash through the surface, where they can’t hurt us",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "We’re far from the shallow now",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 6
+            },
+            {
+              "chord": "D",
+              "position": 19
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Post-Chorus",
+      "lines": [
+        {
+          "text": "In the sha-ha-sha-ha-low",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "In the sha-ha-sha-la-la-la-low",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "Em",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "In the sha-ha-sha-ha-ha-low",
+          "chords": [
+            {
+              "chord": "Am",
+              "position": 0
+            },
+            {
+              "chord": "D",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "We’re far from the shallow now",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 22
+            },
+            {
+              "chord": "Em",
+              "position": 30
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1775489078707,
+  "title": "I See Fire (With Tabs)",
+  "artist": "Ed Sheeran",
+  "key": "5th-6th",
+  "sections": [
+    {
+      "title": "Intro",
+      "lines": [
+        {
+          "text": "Oh, misty eye of the mountain below",
+          "chords": []
+        },
+        {
+          "text": "Keep careful watch of my brothers' souls",
+          "chords": []
+        },
+        {
+          "text": "And should the sky be filled with fire and smoke",
+          "chords": []
+        },
+        {
+          "text": "Keep watching over Durin's sons",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tabs",
+      "type": "tabs",
+      "tabs": [
+        "___________________________________________________",
+        "Chord|Em            C          D           Em      |",
+        "    e|---------------------x---2---2---x---0-----x-|",
+        "    B|--------------1h1----x---3---3---x---0-----x-|",
+        "    G|2h4p2p0-----0-0------x---0h2-2---x---0-----x-|",
+        "    D|--------0h2---0h2----x---0-------x---2-----x-|",
+        "    A|----------x---3------x-----------x---2-----x-|",
+        "    E|0---------x----------x-----------x---0-----x-|",
+        "___________________________________________________",
+        "Repeat|x2"
+      ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "If this is to end in fire",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Then we should all burn together",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Watch the flames climb high into the night",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "G",
+              "position": 23
+            },
+            {
+              "chord": "D",
+              "position": 28
+            },
+            {
+              "chord": "Am7",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Calling out father, oh, stand by and we will",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 37
+            }
+          ]
+        },
+        {
+          "text": "Watch the flames burn auburn on the mountain side",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 10
+            },
+            {
+              "chord": "G/B",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 36
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tabs x1",
+      "type": "tabs"
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "And if we should die tonight",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 17
+            },
+            {
+              "chord": "G",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Then we should all die together",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 15
+            },
+            {
+              "chord": "C",
+              "position": 23
+            }
+          ]
+        },
+        {
+          "text": "Raise a glass of wine for the last time",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 17
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "Am7",
+              "position": 30
+            }
+          ]
+        },
+        {
+          "text": "Calling out father, oh, prepare as we will",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Watch the flames burn auburn on the mountain side",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 10
+            },
+            {
+              "chord": "G/B",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "Desolation comes upon the sky",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 4
+            },
+            {
+              "chord": "G/B",
+              "position": 11
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Now I see fire,  inside the mountain",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  burning the trees",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And I see fire,  hollowing souls",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  blood in the breeze",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Am7",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "And I hope that you'll remember me",
+          "chords": []
+        }
+      ]
+    },
+    {
+      "title": "Tabs x2",
+      "type": "tabs"
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "Oh, should my people fall",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 14
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "Then surely I'll do the same",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "C",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Confined in mountain halls",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 12
+            },
+            {
+              "chord": "G",
+              "position": 21
+            }
+          ]
+        },
+        {
+          "text": "We got too close to the flame",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 11
+            },
+            {
+              "chord": "Am7",
+              "position": 24
+            }
+          ]
+        },
+        {
+          "text": "Calling out father, oh, hold fast and we will",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 8
+            },
+            {
+              "chord": "G",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 24
+            },
+            {
+              "chord": "C",
+              "position": 38
+            }
+          ]
+        },
+        {
+          "text": "Watch the flames burn auburn on the mountain side",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 10
+            },
+            {
+              "chord": "G/B",
+              "position": 22
+            },
+            {
+              "chord": "C",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "Desolation comes upon the sky",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 4
+            },
+            {
+              "chord": "G/B",
+              "position": 11
+            },
+            {
+              "chord": "C",
+              "position": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Now I see fire,  inside the mountain",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  burning the trees",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And I see fire,  hollowing souls",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  blood in the breeze",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Am7",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "And I hope that you'll remember me",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 32
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bridge",
+      "lines": [
+        {
+          "text": "And if the night is burning",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 20
+            }
+          ]
+        },
+        {
+          "text": "I will cover my eyes",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 16
+            }
+          ]
+        },
+        {
+          "text": "For if the dark returns then",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 18
+            }
+          ]
+        },
+        {
+          "text": "My brothers will die",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 3
+            },
+            {
+              "chord": "D",
+              "position": 17
+            }
+          ]
+        },
+        {
+          "text": "And as the sky is falling down",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 11
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "It crashed into this lonely town",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "And with that shadow upon the ground",
+          "chords": [
+            {
+              "chord": "Am7",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "text": "I hear my people screaming out",
+          "chords": [
+            {
+              "chord": "G/B",
+              "position": 2
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "Now I see fire,  inside the mountain",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 28
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  burning the trees",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 25
+            }
+          ]
+        },
+        {
+          "text": "And I see fire,  hollowing souls",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 14
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 27
+            }
+          ]
+        },
+        {
+          "text": "I see fire,  blood in the breeze",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "I see fire, oh you know I saw a city burning (fire)",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 19
+            },
+            {
+              "chord": "D",
+              "position": 37
+            },
+            {
+              "chord": "Em",
+              "position": 46
+            }
+          ]
+        },
+        {
+          "text": "I see fire, feel the heat upon my skin (fire)",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 6
+            },
+            {
+              "chord": "C",
+              "position": 17
+            },
+            {
+              "chord": "D",
+              "position": 34
+            },
+            {
+              "chord": "Em",
+              "position": 40
+            }
+          ]
+        },
+        {
+          "text": "And I see fire, oooooo (fire)",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 15
+            },
+            {
+              "chord": "D",
+              "position": 23
+            },
+            {
+              "chord": "Em",
+              "position": 26
+            }
+          ]
+        },
+        {
+          "text": "And I see fire burn auburn on the mountain side",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 10
+            },
+            {
+              "chord": "C",
+              "position": 20
+            },
+            {
+              "chord": "D",
+              "position": 34
+            },
+            {
+              "chord": "Em",
+              "position": 43
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "id": 1775490760747,
+  "title": "Boulevard Of Broken Dreams (With Tabs)",
+  "artist": "Green Day",
+  "key": "4th",
+  "sections": [
+        {
+      "title": "Intro",
+      "type": "tabs",
+      "tabs": [
+        "__________________________________",
+        "    e|----------------------------|",
+        "    B|----------------------------|",
+        "    G|------0---------2h4-2-------|",
+        "    D|----4-------0---------------|",
+        "    A|--2-------------------------|",
+        "    E|0--------3------------------|",
+        "__________________________________",
+        "    e|----------------------------|",
+        "    B|----------------------------|",
+        "    G|-------2-------------2------|",
+        "    D|--0-------4-/5-----2--------|",
+        "    A|----------------0-----------|",
+        "    E|----------------------------|",
+        "__________________________________",
+        "    e|----------------------------|",
+        "    B|----------------------------|",
+        "    G|------0---------2h4-2-------|",
+        "    D|----4-------0---------------|",
+        "    A|--2-------------------------|",
+        "    E|0--------3------------------|",
+        "__________________________________",
+        "    e|----------------------------|",
+        "    B|----------------------------|",
+        "    G|-------2--------------------|",
+        "    D|--0-------4-/5--------------|",
+        "    A|----------------0-----------|",
+        "    E|----------------------------|",
+        "__________________________________"
+      ]
+    },
+    {
+      "title": "Verse 1",
+      "lines": [
+        {
+          "text": "I walk a lonely road, the only one that I have ever known",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 27
+            },
+            {
+              "chord": "A",
+              "position": 41
+            },
+            {
+              "chord": "Em",
+              "position": 56
+            }
+          ]
+        },
+        {
+          "text": "Don't know where it goes, but it's home to me and I walk alone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 26
+            },
+            {
+              "chord": "A",
+              "position": 43
+            },
+            {
+              "chord": "Em",
+              "position": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interlude",
+      "lines": [
+        {
+          "text": "ㅤㅤㅤㅤ",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 10
+            },
+            {
+              "chord": "A",
+              "position": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 2",
+      "lines": [
+        {
+          "text": "I walk this empty street, on the boulevard of broken dreams",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            },
+            {
+              "chord": "D",
+              "position": 27
+            },
+            {
+              "chord": "A",
+              "position": 40
+            },
+            {
+              "chord": "Em",
+              "position": 55
+            }
+          ]
+        },
+        {
+          "text": "Where the city sleeps, and I'm the only one and I walk alone",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "D",
+              "position": 27
+            },
+            {
+              "chord": "A",
+              "position": 41
+            },
+            {
+              "chord": "Em",
+              "position": 57
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interlude",
+      "lines": [
+        {
+          "text": "ㅤㅤㅤㅤI walk alone, I walk alone",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "A",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤㅤㅤI walk alone, I walk a....",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "ㅤㅤMy shadow's the only one that walks beside me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤMy shallow heart's the only thing that's beating",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤSometimes I wish someone out there will find me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤTill then I walk alone",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "B7",
+              "position": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interlude",
+      "lines": [
+        {
+          "text": "ㅤㅤAh-Ah, Ah-Ah, Ah-Ah",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "A",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "ㅤㅤAh-Ah, Ah-Ah, Ah-Ah",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 13
+            },
+            {
+              "chord": "A",
+              "position": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 3",
+      "lines": [
+        {
+          "text": "I'm walking down the line",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "text": "That divides me somewhere in my mind",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 16
+            },
+            {
+              "chord": "Em",
+              "position": 32
+            }
+          ]
+        },
+        {
+          "text": "On the border line of the edge",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 7
+            },
+            {
+              "chord": "D",
+              "position": 19
+            }
+          ]
+        },
+        {
+          "text": "And where I walk alone",
+          "chords": [
+            {
+              "chord": "A",
+              "position": 4
+            },
+            {
+              "chord": "Em",
+              "position": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 4",
+      "lines": [
+        {
+          "text": "Read between the lines",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "text": "What's fucked up and everything's alright",
+          "chords": [
+            {
+              "chord": "D",
+              "position": 0
+            },
+            {
+              "chord": "A",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "Check my vital signs, to know I'm still alive",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 25
+            },
+            {
+              "chord": "A",
+              "position": 41
+            }
+          ]
+        },
+        {
+          "text": "And I walk alone",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interlude",
+      "lines": [
+        {
+          "text": "I walk alone, I walk alone",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "A",
+              "position": 20
+            },
+            {
+              "chord": "Em",
+              "position": 34
+            }
+          ]
+        },
+        {
+          "text": "I walk alone, I walk a....",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 1
+            },
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 8
+            },
+            {
+              "chord": "A",
+              "position": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "My shadow's the only one that walks beside me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "My shallow heart's the only thing that's beating",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Sometimes I wish someone out there will find me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Till then I walk alone",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "B7",
+              "position": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interlude",
+      "lines": [
+        {
+          "text": "Ah-Ah, Ah-Ah, I walk alone, I walk a...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 5
+            },
+            {
+              "chord": "D",
+              "position": 12
+            },
+            {
+              "chord": "A",
+              "position": 22
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Verse 5",
+      "lines": [
+        {
+          "text": "I walk this empty street, on the boulevard of broken dreams",
+          "chords": [
+            {
+              "chord": "Em",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 12
+            },
+            {
+              "chord": "D",
+              "position": 26
+            },
+            {
+              "chord": "A",
+              "position": 38
+            },
+            {
+              "chord": "Em",
+              "position": 54
+            }
+          ]
+        },
+        {
+          "text": "Where the city sleeps, and I'm the only one and I walk a...",
+          "chords": [
+            {
+              "chord": "G",
+              "position": 11
+            },
+            {
+              "chord": "D",
+              "position": 27
+            },
+            {
+              "chord": "A",
+              "position": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chorus",
+      "lines": [
+        {
+          "text": "My shadow's the only one that walks beside me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 8
+            },
+            {
+              "chord": "D",
+              "position": 21
+            },
+            {
+              "chord": "Em",
+              "position": 36
+            }
+          ]
+        },
+        {
+          "text": "My shallow heart's the only thing that's beating",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 33
+            }
+          ]
+        },
+        {
+          "text": "Sometimes I wish someone out there will find me",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 9
+            },
+            {
+              "chord": "D",
+              "position": 17
+            },
+            {
+              "chord": "Em",
+              "position": 35
+            }
+          ]
+        },
+        {
+          "text": "Till then I walk alone",
+          "chords": [
+            {
+              "chord": "C",
+              "position": 0
+            },
+            {
+              "chord": "G",
+              "position": 10
+            },
+            {
+              "chord": "B7",
+              "position": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Outro",
+      "lines": [
+        {
+          "text": "",
+          "chords": [
+            {
+              "chord": {
+                "chord": "Em",
+                "position": 0
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "C",
+                "position": 4
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "D",
+                "position": 7
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "A/C",
+                "position": 11
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "G",
+                "position": 17
+              },
+              "position": 0
+            },
+            {
+              "chord": {
+                "chord": "D#5",
+                "position": 20
+              },
+              "position": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
 
 
